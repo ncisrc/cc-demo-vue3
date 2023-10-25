@@ -1,0 +1,7 @@
+{
+  "french": "Français",
+  "english": "Anglais",
+  "helloWorld": "Bonjour tout le monde !",
+  "helloName": "Bonjour {name} !",
+  "nbClicks": "Vous n'avez pas cliqué. | Vous avez cliqué une fois. | Vous avez cliqué {n} fois."
+}

@@ -1,0 +1,2956 @@
+{
+  "pageProps": {
+    "speakers": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "alexis-janvier",
+        "identifier": "alexis-janvier",
+        "url": "https://api.caen.camp/api/speakers/alexis-janvier",
+        "name": "Alexis Janvier",
+        "disambiguatingDescription": "Heureux sociétaire de @IncayaScop",
+        "description": "Bien qu’initié très tôt aux ordinateurs (nous avons eu à la maison un ZX81, un Amstrad 464 puis un Amiga 500), j’ai choisi de suivre des études de biologie. Je me suis passionné durant ce cursus pour l’épistémologie puis j’ai commencé à travailler dans la médiation scientifique. Mais ce n’est « que » en 2002 que j’ai rencontré ma vocation : Internet.\n\nAprès un début de carrière sous le statut d’informaticien indépendant, je me suis salarié comme programmeur PHP au sein d’établissements aux objectifs variés : exploration des sols, audiovisuel, musique ou encore publicité. Je suis ensuite devenu développeur senior grâce à 7 années inoubliables passées parmi les membres de l’atelier d’innovation digitale Marmelab.\n\nAujourd’hui, je suis sociétaire d'Incaya, une coopérative de services du numérique. Et lorsque ma famille, le travail ou les micro-aventures normandes n’occupent pas tout mon temps, je participe à l’organisation du CaenCamp.",
+        "descriptionHtml": "<p>Bien qu’initié très tôt aux ordinateurs (nous avons eu à la maison un ZX81, un Amstrad 464 puis un Amiga 500), j’ai choisi de suivre des études de biologie. Je me suis passionné durant ce cursus pour l’épistémologie puis j’ai commencé à travailler dans la médiation scientifique. Mais ce n’est « que » en 2002 que j’ai rencontré ma vocation : Internet.</p>\n<p>Après un début de carrière sous le statut d’informaticien indépendant, je me suis salarié comme programmeur PHP au sein d’établissements aux objectifs variés : exploration des sols, audiovisuel, musique ou encore publicité. Je suis ensuite devenu développeur senior grâce à 7 années inoubliables passées parmi les membres de l’atelier d’innovation digitale Marmelab.</p>\n<p>Aujourd’hui, je suis sociétaire d&#39;Incaya, une coopérative de services du numérique. Et lorsque ma famille, le travail ou les micro-aventures normandes n’occupent pas tout mon temps, je participe à l’organisation du CaenCamp.</p>\n",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/alexisjanvier",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/alexis-janvier-90a605a",
+            "type": "linkedin"
+          },
+          {
+            "url": "http://alexisjanvier.net",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/alexisjanvier",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "on-fait-quoi-en-2022-pour-lannee-du-mieux",
+            "identifier": "on-fait-quoi-en-2022-pour-lannee-du-mieux",
+            "url": "https://api.caen.camp/api/events/on-fait-quoi-en-2022-pour-lannee-du-mieux",
+            "name": "On fait quoi en 2022 pour l’année du mieux ?",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Pour notre dernière rencontre de 2021, nous vous proposons de nous retrouver pour préparer l’année 2022.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "on-fait-quoi-en-2022-pour-lannee-du-mieux",
+              "identifier": "on-fait-quoi-en-2022-pour-lannee-du-mieux",
+              "url": "https://api.caen.camp/api/events/on-fait-quoi-en-2022-pour-lannee-du-mieux",
+              "name": "On fait quoi en 2022 pour l’année du mieux ?",
+              "startDate": "2021-11-25T18:30:00+01:00",
+              "disambiguatingDescription": "Pour notre dernière rencontre de 2021, nous vous proposons de nous retrouver pour préparer l’année 2022.",
+              "number": 55,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "migrer-de-gatsby-a-nextjs",
+            "identifier": "migrer-de-gatsby-a-nextjs",
+            "url": "https://api.caen.camp/api/events/migrer-de-gatsby-a-nextjs",
+            "name": "Migrer de Gatsby à Next.js",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Retour d’expérience sur la reprise d'un site basé sur Gatsby en utilisant Next.js",
+            "video": "https://youtu.be/zN0w0-1DhdE",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "migrer-de-gatsby-a-nextjs",
+              "identifier": "migrer-de-gatsby-a-nextjs",
+              "url": "https://api.caen.camp/api/events/migrer-de-gatsby-a-nextjs",
+              "name": "Migrer de Gatsby à Next.js",
+              "startDate": "2021-09-30T18:30:00+02:00",
+              "disambiguatingDescription": "Retour d’expérience sur la reprise d'un site basé sur Gatsby en utilisant Next.js",
+              "number": 53,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "openapi-un-contrat-pour-vos-apis",
+            "identifier": "openapi-un-contrat-pour-vos-apis",
+            "url": "https://api.caen.camp/api/events/openapi-un-contrat-pour-vos-api-s",
+            "name": "OpenAPI: un contrat pour vos API.s",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Quel est le rapport entre OpenAPI et le REST? Et en fait, c’est quoi OpenAPI au juste ?",
+            "video": "https://youtu.be/RhghWLKfnbs",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "openapi-un-contrat-pour-vos-api-s",
+              "identifier": "openapi-un-contrat-pour-vos-api-s",
+              "url": "https://api.caen.camp/api/events/openapi-un-contrat-pour-vos-api-s",
+              "name": "OpenAPI: un contrat pour vos API.s",
+              "startDate": "2020-02-26T18:30:00+01:00",
+              "disambiguatingDescription": "Quel est le rapport entre OpenAPI et le REST? Et en fait, c’est quoi OpenAPI au juste ?",
+              "number": 48,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "maintenir-de-lopen-source-au-sein-de-sa-boite-lexemple-de-react-admin",
+            "identifier": "maintenir-de-lopen-source-au-sein-de-sa-boite-lexemple-de-react-admin",
+            "url": "https://api.caen.camp/api/events/maintenir-de-lopen-source-au-sein-de-sa-boite-lexemple-de-react-admin",
+            "name": "Maintenir de l'open-source au sein de sa boite: l’exemple de react-admin",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Nous sommes très nombreux à utiliser quotidiennement des outils open-source, mais souvent moins nombreux à en maintenir. Et pourtant, c’est une expérience enrichissante !",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "maintenir-de-lopen-source-au-sein-de-sa-boite-lexemple-de-react-admin",
+              "identifier": "maintenir-de-lopen-source-au-sein-de-sa-boite-lexemple-de-react-admin",
+              "url": "https://api.caen.camp/api/events/maintenir-de-lopen-source-au-sein-de-sa-boite-lexemple-de-react-admin",
+              "name": "Maintenir de l'open-source au sein de sa boite: l’exemple de react-admin",
+              "startDate": "2019-06-25T18:30:00+02:00",
+              "disambiguatingDescription": "Nous sommes très nombreux à utiliser quotidiennement des outils open-source, mais souvent moins nombreux à en maintenir. Et pourtant, c’est une expérience enrichissante !",
+              "number": 44,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "votre-projet-sous-docker",
+            "identifier": "votre-projet-sous-docker",
+            "url": "https://api.caen.camp/api/events/le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+            "name": "Votre projet sous Docker",
+            "format": {
+              "label": "Lightning",
+              "durationInMinutes": 5
+            },
+            "abstract": "En 5 min, il est possible de lancer l'integralité d'un projet node, front et back, dans des containers avec docker-compose. Comme quoi, on se fait souvent une montagne de Docker.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+              "identifier": "le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+              "url": "https://api.caen.camp/api/events/le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+              "name": "Le budget d'erreurs: un outil agile pour orienter devs et sysadmins vers le même objectif.",
+              "startDate": "2018-05-29T18:30:00+02:00",
+              "disambiguatingDescription": "Après Yousign pour l’édition #37, c’est Marmelab qui s’y colle pour cette édition #38 avec du Docker et du Site Reliability Engineering (SRE) applicable à la culture DevOps.",
+              "number": 38,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "un-monorepo-pour-les-petits-projets",
+            "identifier": "un-monorepo-pour-les-petits-projets",
+            "url": "https://api.caen.camp/api/events/introduction-au-devops",
+            "name": "Un monorepo pour les petits projets",
+            "format": {
+              "label": "Lightning",
+              "durationInMinutes": 5
+            },
+            "abstract": "Plébiscitée sur les grosses bases de code, l’utilisation d’un monorepo sur un projet de librairies est un indéniable plus. Mais qu’en est-il sur les projets plus standards ?",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "introduction-au-devops",
+              "identifier": "introduction-au-devops",
+              "url": "https://api.caen.camp/api/events/introduction-au-devops",
+              "name": "Introduction au DevOps",
+              "startDate": "2018-02-20T18:30:00+01:00",
+              "disambiguatingDescription": "Ce meetup aura pour but de démystifier ce terme aujourd'hui devenu incontournable, comprendre la place qu'il occupe au sein d'une entreprise et ainsi que les problèmes qu'il adresse.",
+              "number": 36,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "live-coding-autour-de-la-refonte-du-site-des-caencamp",
+            "identifier": "live-coding-autour-de-la-refonte-du-site-des-caencamp",
+            "url": "https://api.caen.camp/api/events/live-coding-autour-de-la-refonte-du-site-des-caencamp",
+            "name": "Live coding autour de la refonte du site des CaenCamp",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Soirée live coding autour de la refonte du site aidé d'outils open-source et de la plateforme Github.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "live-coding-autour-de-la-refonte-du-site-des-caencamp",
+              "identifier": "live-coding-autour-de-la-refonte-du-site-des-caencamp",
+              "url": "https://api.caen.camp/api/events/live-coding-autour-de-la-refonte-du-site-des-caencamp",
+              "name": "Live coding autour de la refonte du site des CaenCamp",
+              "startDate": "2017-12-19T18:30:00+01:00",
+              "disambiguatingDescription": "Soirée live coding autour de la refonte du site aidé d'outils open-source et de la plateforme Github.",
+              "number": 35,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "le-graphql-cest-vraiment-la-fin-du-rest",
+            "identifier": "le-graphql-cest-vraiment-la-fin-du-rest",
+            "url": "https://api.caen.camp/api/events/le-graphql-cest-vraiment-la-fin-du-rest",
+            "name": "Le GraphQL, c'est vraiment la fin du REST ?",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Parfois présenté comme le successeur des API Rest, le graphQL fait briller les yeux de nombreux développeurs.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "le-graphql-cest-vraiment-la-fin-du-rest",
+              "identifier": "le-graphql-cest-vraiment-la-fin-du-rest",
+              "url": "https://api.caen.camp/api/events/le-graphql-cest-vraiment-la-fin-du-rest",
+              "name": "Le GraphQL, c'est vraiment la fin du REST ?",
+              "startDate": "2017-03-28T18:30:00+02:00",
+              "disambiguatingDescription": "Parfois présenté comme le successeur des API Rest, le graphQL fait briller les yeux de nombreux développeurs.",
+              "number": 28,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "antoine-lelaisant",
+        "identifier": "antoine-lelaisant",
+        "url": "https://api.caen.camp/api/speakers/antoine-lelaisant",
+        "name": "Antoine Lelaisant",
+        "disambiguatingDescription": "Developer @knplabs",
+        "description": "",
+        "descriptionHtml": "",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/AntoineLelaisant",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/antoine-lelaisant-766278a4/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/antoinelelaisan",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+            "identifier": "sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+            "url": "https://api.caen.camp/api/events/sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+            "name": "Sprint Zero - Démarrer ensemble un projet de création d'app",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Eve (Scrum Master) et Antoine (Développeur) vous racontent comment ils ont démarré le projet d’une startup, qui voulait faire une application de jeu. Budget limité à 50 000€ avec 3 deadline fixes : Un salon, une phase de beta testeurs et le lancement de l’application.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+              "identifier": "sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+              "url": "https://api.caen.camp/api/events/sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+              "name": "Sprint Zero - Démarrer ensemble un projet de création d'app",
+              "startDate": "2019-06-04T18:30:00+02:00",
+              "disambiguatingDescription": "Eve (Scrum Master) et Antoine (Développeur) vous racontent comment ils ont démarré le projet d’une startup, qui voulait faire une application de jeu. Budget limité à 50 000€ avec 3 deadline fixes : Un salon, une phase de beta testeurs et le lancement de l’application.",
+              "number": 43,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "phpspec-les-tests-unitaires-version-bdd",
+            "identifier": "phpspec-les-tests-unitaires-version-bdd",
+            "url": "https://api.caen.camp/api/events/phpspec-les-tests-unitaires-version-bdd",
+            "name": "phpSpec: Les tests unitaires version BDD",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "PhpUnit est très généralisé. Voilà l'occasion de découvrir une alternative: PhpSpec ! Ne pensez plus test unitaire, pensez Specifications !",
+            "video": "https://www.youtube.com/watch?v=TIpS0yEP8HI",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "phpspec-les-tests-unitaires-version-bdd",
+              "identifier": "phpspec-les-tests-unitaires-version-bdd",
+              "url": "https://api.caen.camp/api/events/phpspec-les-tests-unitaires-version-bdd",
+              "name": "phpSpec: Les tests unitaires version BDD",
+              "startDate": "2018-10-30T18:30:00+01:00",
+              "disambiguatingDescription": "PhpUnit est très généralisé. Voilà l'occasion de découvrir une alternative: PhpSpec ! Ne pensez plus test unitaire, pensez Specifications !",
+              "number": 40,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "devenir-un-git-master",
+            "identifier": "devenir-un-git-master",
+            "url": "https://api.caen.camp/api/events/devenir-un-git-master",
+            "name": "Devenir un git master",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Git c'est bien, le maîtriser pleinement, c'est mieux.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "devenir-un-git-master",
+              "identifier": "devenir-un-git-master",
+              "url": "https://api.caen.camp/api/events/devenir-un-git-master",
+              "name": "Devenir un git master",
+              "startDate": "2017-06-27T18:30:00+02:00",
+              "disambiguatingDescription": "Git c'est bien, le maîtriser pleinement, c'est mieux.",
+              "number": 31,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "clement-alexandre",
+        "identifier": "clement-alexandre",
+        "url": "https://api.caen.camp/api/speakers/clement-alexandre",
+        "name": "Clément Alexandre",
+        "disambiguatingDescription": "Directeur général de @margotteuse, développeur web et instigateur du @caencamp",
+        "description": "Après un an dans une startup parisienne en tant que développeur en\nchef où j'ai beaucoup appris, j'ai commencé à réfléchir à\nquelques projets de création d'entreprise tout en travaillant en tant\nque développeur web indépendant.\n\nJ'ai ensuite rejoint l'entreprise Margotte tournicote en tant que\nDirecteur général en juin 2014, en proposant mes compétences\ntechniques et entrepreneuriales pour mener à bien le développement\nde nos activités commerciales digitales innovantes.\n\nMes compétences techniques gravitent autour du web et du prototypage\navec une forte expérience sur des outils tels que qu'Heroku, Ruby on\nRails, Redis, Elasticsearch ou encore Bootstrap / Foundation,\nAngularJS / Vue.js.\n\nEnfin, je suis l'instigateur du CaenCamp, un événement technique\nmensuel autour des technologies du web, créé en avril 2012.\n",
+        "descriptionHtml": "<p>Après un an dans une startup parisienne en tant que développeur en chef où j'ai beaucoup appris,\nj'ai commencé à réfléchir à quelques projets de création d'entreprise tout en travaillant en tant\nque développeur web indépendant.</p>\n<p>J'ai ensuite rejoint l'entreprise Margotte tournicote en tant que Directeur général en juin 2014, en\nproposant mes compétences techniques et entrepreneuriales pour mener à bien le développement de nos\nactivités commerciales digitales innovantes.</p>\n<p>Mes compétences techniques gravitent autour du web et du prototypage avec une forte expérience sur\ndes outils tels que qu'Heroku, Ruby on Rails, Redis, Elasticsearch ou encore Bootstrap / Foundation,\nAngularJS / Vue.js.</p>\n<p>Enfin, je suis l'instigateur du CaenCamp, un événement technique mensuel autour des technologies du\nweb, créé en avril 2012.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/clm-a",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/clementalexandre2133",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/clm_a",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "en-2021-japprends-un-nouveau-langage-et-pourquoi-pas-elixir",
+            "identifier": "en-2021-japprends-un-nouveau-langage-et-pourquoi-pas-elixir",
+            "url": "https://api.caen.camp/api/events/en-2021-japprends-un-nouveau-langage-et-pourquoi-pas-elixir",
+            "name": "En 2021, j'apprends un nouveau langage : et pourquoi pas Elixir ?",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Une introduction à Elixir, un langage de programmation multi-paradigme fonctionnant sur la machine virtuelle Erlang (BEAM)",
+            "video": "https://youtu.be/MGcVDRQWp6E",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "en-2021-japprends-un-nouveau-langage-et-pourquoi-pas-elixir",
+              "identifier": "en-2021-japprends-un-nouveau-langage-et-pourquoi-pas-elixir",
+              "url": "https://api.caen.camp/api/events/en-2021-japprends-un-nouveau-langage-et-pourquoi-pas-elixir",
+              "name": "En 2021, j'apprends un nouveau langage : et pourquoi pas Elixir ?",
+              "startDate": "2021-02-17T18:30:00+01:00",
+              "disambiguatingDescription": "Une introduction à Elixir, un langage de programmation multi-paradigme fonctionnant sur la machine virtuelle Erlang (BEAM)",
+              "number": 52,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "le-preprocesseur-sass-et-lasset-pipeline",
+            "identifier": "le-preprocesseur-sass-et-lasset-pipeline",
+            "url": "https://api.caen.camp/api/events/le-preprocesseur-sass-et-lasset-pipeline",
+            "name": "Le préprocesseur Sass et l'Asset Pipeline",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Comment tirer partie au quotidien de l'utilisation du préprocesseur CSS Sass.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "le-preprocesseur-sass-et-lasset-pipeline",
+              "identifier": "le-preprocesseur-sass-et-lasset-pipeline",
+              "url": "https://api.caen.camp/api/events/le-preprocesseur-sass-et-lasset-pipeline",
+              "name": "Le préprocesseur Sass et l'Asset Pipeline",
+              "startDate": "2014-02-27T00:00:00+01:00",
+              "disambiguatingDescription": "Comment tirer partie au quotidien de l'utilisation du préprocesseur CSS Sass.",
+              "number": 18,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "emberjs-angularjs-les-mains-dans-le-cambouis",
+            "identifier": "emberjs-angularjs-les-mains-dans-le-cambouis",
+            "url": "https://api.caen.camp/api/events/emberjs-angularjs-les-mains-dans-le-cambouis",
+            "name": "EmberJS/AngularJS, les mains dans le cambouis",
+            "format": {
+              "label": "Dojo",
+              "durationInMinutes": 180
+            },
+            "abstract": "Après la réalisation succincte d'un back-end de Kanban, nous allons nous commencer à itérer sur la partie front-end. Nous nous aiderons soit d'AngularJS soit d'EmberJS, en fonction du choix des participants.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "emberjs-angularjs-les-mains-dans-le-cambouis",
+              "identifier": "emberjs-angularjs-les-mains-dans-le-cambouis",
+              "url": "https://api.caen.camp/api/events/emberjs-angularjs-les-mains-dans-le-cambouis",
+              "name": "EmberJS/AngularJS, les mains dans le cambouis",
+              "startDate": "2013-12-16T00:00:00+01:00",
+              "disambiguatingDescription": "Après la réalisation succincte d'un back-end de Kanban, nous allons nous commencer à itérer sur la partie front-end. Nous nous aiderons soit d'AngularJS soit d'EmberJS, en fonction du choix des participants.",
+              "number": 2,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+            "identifier": "ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+            "url": "https://api.caen.camp/api/events/ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+            "name": "Ruby on Rails / AngularJS : les mains dans le cambouis",
+            "format": {
+              "label": "Dojo",
+              "durationInMinutes": 180
+            },
+            "abstract": "Rails est un framework qui est devenu, en dix ans, l'un des outils de conception web de référence.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+              "identifier": "ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+              "url": "https://api.caen.camp/api/events/ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+              "name": "Ruby on Rails / AngularJS : les mains dans le cambouis",
+              "startDate": "2013-11-25T00:00:00+01:00",
+              "disambiguatingDescription": "Rails est un framework qui est devenu, en dix ans, l'un des outils de conception web de référence.",
+              "number": 1,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "tour-dhorizon-et-deploiements-automatises",
+            "identifier": "tour-dhorizon-et-deploiements-automatises",
+            "url": "https://api.caen.camp/api/events/tour-dhorizon-et-deploiements-automatises",
+            "name": "Tour d'horizon et Déploiements automatisés",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Avec un tour d'horizon des technos du moment en 20 minutes, nous allons recueillir les engouements et les cas d'utilisation des participants",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "tour-dhorizon-et-deploiements-automatises",
+              "identifier": "tour-dhorizon-et-deploiements-automatises",
+              "url": "https://api.caen.camp/api/events/tour-dhorizon-et-deploiements-automatises",
+              "name": "Tour d'horizon et Déploiements automatisés",
+              "startDate": "2013-10-25T00:00:00+02:00",
+              "disambiguatingDescription": "Avec un tour d'horizon des technos du moment en 20 minutes, nous allons recueillir les engouements et les cas d'utilisation des participants",
+              "number": 14,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "virtualisez-vos-environnements-de-developpement-avec-vagrant",
+            "identifier": "virtualisez-vos-environnements-de-developpement-avec-vagrant",
+            "url": "https://api.caen.camp/api/events/virtualisez-vos-environnements-de-developpement-avec-vagrant",
+            "name": "Virtualisez vos environnements de développement avec Vagrant",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Vagrant est le chaînon manquant entre VirtualBox et les environnements hétérogènes sur lesquels un développeur amené à travailler pour ses projets",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "virtualisez-vos-environnements-de-developpement-avec-vagrant",
+              "identifier": "virtualisez-vos-environnements-de-developpement-avec-vagrant",
+              "url": "https://api.caen.camp/api/events/virtualisez-vos-environnements-de-developpement-avec-vagrant",
+              "name": "Virtualisez vos environnements de développement avec Vagrant",
+              "startDate": "2013-04-11T00:00:00+02:00",
+              "disambiguatingDescription": "Vagrant est le chaînon manquant entre VirtualBox et les environnements hétérogènes sur lesquels un développeur amené à travailler pour ses projets",
+              "number": 11,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "introduction-au-developpement-par-les-tests",
+            "identifier": "introduction-au-developpement-par-les-tests",
+            "url": "https://api.caen.camp/api/events/introduction-au-developpement-par-les-tests",
+            "name": "Introduction au développement par les tests",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Introduction technique et méthodologique au développement par les tests",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "introduction-au-developpement-par-les-tests",
+              "identifier": "introduction-au-developpement-par-les-tests",
+              "url": "https://api.caen.camp/api/events/introduction-au-developpement-par-les-tests",
+              "name": "Introduction au développement par les tests",
+              "startDate": "2012-11-12T00:00:00+01:00",
+              "disambiguatingDescription": "Introduction technique et méthodologique au développement par les tests",
+              "number": 6,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "clement-le-biez",
+        "identifier": "clement-le-biez",
+        "url": "https://api.caen.camp/api/speakers/clement-le-biez",
+        "name": "Clément Le Biez",
+        "disambiguatingDescription": "Développeur fullstack @ UnicornPowered & Féru d'agilité.",
+        "description": "Développeur avec 6 ans d'expérience, j'essaye de construire des applications accessibles et utilisables. J'ai d'ailleurs un gros penchant pour explorer en profondeur le développement de grosses applications front. Addict aux tomates cerises et au fromage.",
+        "descriptionHtml": "<p>Développeur avec 6 ans d&#39;expérience, j&#39;essaye de construire des applications accessibles et utilisables. J&#39;ai d&#39;ailleurs un gros penchant pour explorer en profondeur le développement de grosses applications front. Addict aux tomates cerises et au fromage.</p>\n",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/Clebiez",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/clebiez/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/clebiez",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "simplifions-nos-apps-front-avec-react-query",
+            "identifier": "simplifions-nos-apps-front-avec-react-query",
+            "url": "https://api.caen.camp/api/events/simplifions-nos-apps-front-avec-react-query",
+            "name": "Simplifions nos apps front avec React-Query",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Sans révolutionner le genre, React-Query semble faciliter la vie des développeur.euses React et c'est ce que nous allons voir, en parlant de fromage.",
+            "video": "https://youtu.be/POZqDrjn-_4",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "simplifions-nos-apps-front-avec-react-query",
+              "identifier": "simplifions-nos-apps-front-avec-react-query",
+              "url": "https://api.caen.camp/api/events/simplifions-nos-apps-front-avec-react-query",
+              "name": "Simplifions nos apps front avec React-Query",
+              "startDate": "2022-03-31T18:30:00+02:00",
+              "disambiguatingDescription": "Sans révolutionner le genre, React-Query semble faciliter la vie des développeur.euses React et c'est ce que nous allons voir, en parlant de fromage.",
+              "number": 57,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "pas-de-stress-ya-cypress",
+            "identifier": "pas-de-stress-ya-cypress",
+            "url": "https://api.caen.camp/api/events/pas-de-stress-ya-cypress",
+            "name": "Pas de stress, y'a Cypress",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Retour d'expérience sur l'implémentation de tests end to end avec Cypress dans un contexte d'application SaaS.",
+            "video": "https://youtu.be/KN7SbxfHdCc",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "pas-de-stress-ya-cypress",
+              "identifier": "pas-de-stress-ya-cypress",
+              "url": "https://api.caen.camp/api/events/pas-de-stress-ya-cypress",
+              "name": "Pas de stress, y'a Cypress",
+              "startDate": "2020-10-28T19:00:00+01:00",
+              "disambiguatingDescription": "Retour d'expérience sur l'implémentation de tests end to end avec Cypress dans un contexte d'application SaaS.",
+              "number": 50,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "documenter-son-api-avec-docsify",
+            "identifier": "documenter-son-api-avec-docsify",
+            "url": "https://api.caen.camp/api/events/architecture-css-avec-itcss-et-inuitcss",
+            "name": "Documenter son API avec Docsify",
+            "format": {
+              "label": "Lightning",
+              "durationInMinutes": 5
+            },
+            "abstract": "Brève présentation de Docsify, un outil permettant de générer une documentation à la volée à partir de fichiers écrits en markdown.",
+            "video": "https://www.youtube.com/watch?v=nDQS0Fw4Gxg",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "architecture-css-avec-itcss-et-inuitcss",
+              "identifier": "architecture-css-avec-itcss-et-inuitcss",
+              "url": "https://api.caen.camp/api/events/architecture-css-avec-itcss-et-inuitcss",
+              "name": "Architecture CSS avec ITCSS et InuitCSS",
+              "startDate": "2018-03-27T18:30:00+02:00",
+              "disambiguatingDescription": "Lors de ce meetup, nous verrons comment l’utilisation d’outils tels que ITCSS ou InuitCSS permet de mettre en place une véritable architecture au sein des fichiers CSS.",
+              "number": 37,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "architecture-flux-alternative-au-mvc",
+            "identifier": "architecture-flux-alternative-au-mvc",
+            "url": "https://api.caen.camp/api/events/architecture-flux-alternative-au-mvc",
+            "name": "Architecture flux : Alternative au MVC ?",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Flux n'est pas un framework, mais plutôt une architecture, une façon de penser permettant de résoudre les problèmes de scalabilité et de maintenance que l'on peut rencontrer dans le développement d'applications webs volumineuses.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "architecture-flux-alternative-au-mvc",
+              "identifier": "architecture-flux-alternative-au-mvc",
+              "url": "https://api.caen.camp/api/events/architecture-flux-alternative-au-mvc",
+              "name": "Architecture flux : Alternative au MVC ?",
+              "startDate": "2017-04-25T18:30:00+02:00",
+              "disambiguatingDescription": "Flux n'est pas un framework, mais plutôt une architecture, une façon de penser permettant de résoudre les problèmes de scalabilité et de maintenance que l'on peut rencontrer dans le développement d'applications webs volumineuses.",
+              "number": 29,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "emmanuel-bosquet",
+        "identifier": "emmanuel-bosquet",
+        "url": "https://api.caen.camp/api/speakers/emmanuel-bosquet",
+        "name": "Emmanuel Bosquet",
+        "disambiguatingDescription": "Développeur heureux à Clever Cloud, code en Rust depuis trois ans.",
+        "description": "Développeur heureux à Clever Cloud, code en Rust depuis trois ans.",
+        "descriptionHtml": "<p>Développeur heureux à Clever Cloud, code en Rust depuis trois ans.</p>\n",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/keksoj",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/emmanuel-bosquet-7b74b61b3",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://emmanuelbosquet.com/",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/EmmanuelBosquet",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "rust-ou-le-plaisir-de-coder",
+            "identifier": "rust-ou-le-plaisir-de-coder",
+            "url": "https://api.caen.camp/api/events/rust-ou-le-plaisir-de-coder",
+            "name": "Rust, ou le plaisir de coder",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "On entend parler de Rust, mais à quoi ça ressemble ?",
+            "video": "https://youtu.be/68Yw_n6SySk",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "rust-ou-le-plaisir-de-coder",
+              "identifier": "rust-ou-le-plaisir-de-coder",
+              "url": "https://api.caen.camp/api/events/rust-ou-le-plaisir-de-coder",
+              "name": "Rust, ou le plaisir de coder",
+              "startDate": "2021-10-28T18:30:00+02:00",
+              "disambiguatingDescription": "On entend parler de Rust, mais à quoi ça ressemble ?",
+              "number": 54,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "eve-vinclaire-berkemeier",
+        "identifier": "eve-vinclaire-berkemeier",
+        "url": "https://api.caen.camp/api/speakers/eve-vinclaire-berkemeier",
+        "name": "Eve Vinclair-Berkemeier",
+        "disambiguatingDescription": "People Manager & Facilitatrice chez KNPLabs",
+        "description": "Je suis People Manager chez KNPLabs : Je fais en sorte que nos\ndéveloppeurs sont heureux au travail dans leur quotidien. Je\ntravailles exclusivement à distance avec des équipe distribuées aux\nquatre coins du monde.\nMon expérience en qualité de coach agile me permet de trouver les\nbons outils pour créer une cohésion d'équipe, même à distance. Je\nveille sur les projets et je sais parfaitement détecter des signes\nsusceptibles de devenir des problèmes.\n",
+        "descriptionHtml": "<p>Je suis People Manager chez KNPLabs : Je fais en sorte que nos développeurs sont heureux au travail dans leur quotidien. Je travailles exclusivement à distance avec des équipe distribuées aux quatre coins du monde.<br />\nMon expérience en qualité de coach agile me permet de trouver les bons outils pour créer une cohésion d'équipe, même à distance. Je veille sur les projets et je sais parfaitement détecter des signes susceptibles de devenir des problèmes.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://www.linkedin.com/in/phillinee/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/evey_online",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+            "identifier": "sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+            "url": "https://api.caen.camp/api/events/sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+            "name": "Sprint Zero - Démarrer ensemble un projet de création d'app",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Eve (Scrum Master) et Antoine (Développeur) vous racontent comment ils ont démarré le projet d’une startup, qui voulait faire une application de jeu. Budget limité à 50 000€ avec 3 deadline fixes : Un salon, une phase de beta testeurs et le lancement de l’application.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+              "identifier": "sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+              "url": "https://api.caen.camp/api/events/sprint-zero-demarrer-ensemble-un-projet-de-creation-dapp",
+              "name": "Sprint Zero - Démarrer ensemble un projet de création d'app",
+              "startDate": "2019-06-04T18:30:00+02:00",
+              "disambiguatingDescription": "Eve (Scrum Master) et Antoine (Développeur) vous racontent comment ils ont démarré le projet d’une startup, qui voulait faire une application de jeu. Budget limité à 50 000€ avec 3 deadline fixes : Un salon, une phase de beta testeurs et le lancement de l’application.",
+              "number": 43,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "francois-zaninotto",
+        "identifier": "francois-zaninotto",
+        "url": "https://api.caen.camp/api/speakers/francois-zaninotto",
+        "name": "François Zaninotto",
+        "disambiguatingDescription": "Marmelab CEO, entrepreneur, manager, agile & lean startup coach, Web architect, open-source enthusiast",
+        "description": "Marmelab founder and CEO, passionate about leadership, agility, web\ntechnologies, and open-source. Maintainer of popular open-source\nlibraries (Faker, admin-on-rest, gremlins.js), and regular speaker at\ntech conferences.\n",
+        "descriptionHtml": "<p>Marmelab founder and CEO, passionate about leadership, agility, web technologies, and open-source. Maintainer of popular open-source libraries (Faker, admin-on-rest, gremlins.js), and regular speaker at tech conferences.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/fzaninotto",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/fzaninotto",
+            "type": "linkedin"
+          },
+          {
+            "url": "http://www.redotheweb.com",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/francoisz",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "vous-aimez-les-legos-react-est-fait-pour-vous",
+            "identifier": "vous-aimez-les-legos-react-est-fait-pour-vous",
+            "url": "https://api.caen.camp/api/events/vous-aimez-les-legos-react-est-fait-pour-vous",
+            "name": "Vous aimez les legos ? React est fait pour vous !",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Les composants ont mis tout le monde d’accord dans le dév frontend – React, Vue, Angular. Comme des legos, ils permettent de construire des applications complexes de façon simple, mais ils favorisent la réutilisabilité. Ne vous y trompez pas : derrière une architecture en apparence simple se cache une révolution.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "vous-aimez-les-legos-react-est-fait-pour-vous",
+              "identifier": "vous-aimez-les-legos-react-est-fait-pour-vous",
+              "url": "https://api.caen.camp/api/events/vous-aimez-les-legos-react-est-fait-pour-vous",
+              "name": "Vous aimez les legos ? React est fait pour vous !",
+              "startDate": "2019-02-19T18:30:00+01:00",
+              "disambiguatingDescription": "Les composants ont mis tout le monde d’accord dans le dév frontend – React, Vue, Angular. Comme des legos, ils permettent de construire des applications complexes de façon simple, mais ils favorisent la réutilisabilité. Ne vous y trompez pas : derrière une architecture en apparence simple se cache une révolution.",
+              "number": 42,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "frederic-alix",
+        "identifier": "frederic-alix",
+        "url": "https://api.caen.camp/api/speakers/frederic-alix",
+        "name": "Frédéric Alix",
+        "disambiguatingDescription": "Since 22 years ago, I enjoy IT. I enjoy to learn new things every day and change my point of view.",
+        "description": "Since 22 years ago, I enjoy IT.\n\nI enjoy to learn new things every day and change my point of view.\n",
+        "descriptionHtml": "<p>Since 22 years ago, I enjoy IT.</p>\n<p>I enjoy to learn new things every day and change my point of view.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/fredericalix",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/frederic-alix/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://www.fralix.fr/",
+            "type": "perso"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "retour-de-xp-sur-lhebergement-des-db-et-applications-sur-le-paas-de-clever-cloud",
+            "identifier": "retour-de-xp-sur-lhebergement-des-db-et-applications-sur-le-paas-de-clever-cloud",
+            "url": "https://api.caen.camp/api/events/edition-1",
+            "name": "Retour de XP sur l'hébergement des DB et applications sur le PaaS de Clever Cloud",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Présentation de HashiCorp Consul et retour d'expériences sur Clever Cloud",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "edition-1",
+              "identifier": "edition-1",
+              "url": "https://api.caen.camp/api/events/edition-1",
+              "name": "Édition 1",
+              "startDate": "2019-11-06T18:30:00+01:00",
+              "disambiguatingDescription": "Présentation de HashiCorp Consul et retour d'expériences sur Clever Cloud",
+              "number": 1,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "frederic-leguedois",
+        "identifier": "frederic-leguedois",
+        "url": "https://api.caen.camp/api/speakers/frederic-leguedois",
+        "name": "Frédéric Leguedois",
+        "disambiguatingDescription": "Evangéliste Agile, libriste, voire polémiste ;-) Conférencier iconoclaste, directeur du pôle Agile chez @CloudTemple.",
+        "description": "Je suis un agiliste évangéliste, libriste et geek humaniste. Vous\ntrouverez plus d’informations en lisant cette interview d’agiliste\n[http://www.leguedois.fr/interview/].\n\nMon activité profesionnelle se décompose en trois axes :\n\n \t* directeur technique du pôle développement logiciel d’une\nentreprise IT,\n \t* conférencier intervenant dans l’enseingement supérieur,\n \t* coach agile sur des problématiques spécifiques où un regard\nextérieur est sollicité.\n\n",
+        "descriptionHtml": "<p>Je suis un agiliste évangéliste, libriste et geek humaniste. Vous trouverez plus d’informations en lisant cette <a href=\"http://www.leguedois.fr/interview/\">interview d’agiliste</a>.</p>\n<p>Mon activité profesionnelle se décompose en trois axes :</p>\n<ul>\n<li>directeur technique du pôle développement logiciel d’une entreprise IT,</li>\n<li>conférencier intervenant dans l’enseingement supérieur,</li>\n<li>coach agile sur des problématiques spécifiques où un regard extérieur est sollicité.</li>\n</ul>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-legu%C3%A9dois/",
+            "type": "linkedin"
+          },
+          {
+            "url": "http://www.leguedois.fr/",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/f_leguedois",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "a-la-decouverte-des-tests-automatiques",
+            "identifier": "a-la-decouverte-des-tests-automatiques",
+            "url": "https://api.caen.camp/api/events/a-la-decouverte-des-tests-automatiques",
+            "name": "A la découverte des tests automatiques",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Les tests sont de plus en plus répandus comme bonne pratique de programmation. A quoi cela peut-il bien servir ? Est-ce vraiment utile dans mon contexte ? Comment les mettre en place ?",
+            "video": "https://youtu.be/46AYdmshkKw",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "a-la-decouverte-des-tests-automatiques",
+              "identifier": "a-la-decouverte-des-tests-automatiques",
+              "url": "https://api.caen.camp/api/events/a-la-decouverte-des-tests-automatiques",
+              "name": "A la découverte des tests automatiques",
+              "startDate": "2020-09-23T18:30:00+02:00",
+              "disambiguatingDescription": "Les tests sont de plus en plus répandus comme bonne pratique de programmation. A quoi cela peut-il bien servir ? Est-ce vraiment utile dans mon contexte ? Comment les mettre en place ?",
+              "number": 49,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "se-reunir-sans-sendormir-et-paiements-pour-developpeurs",
+            "identifier": "se-reunir-sans-sendormir-et-paiements-pour-developpeurs",
+            "url": "https://api.caen.camp/api/events/se-reunir-sans-sendormir-et-paiements-pour-developpeurs",
+            "name": "Se réunir sans s'endormir et paiements pour développeurs",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Se réunir sans s'endormir et paiements pour développeurs avec Paymill.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "se-reunir-sans-sendormir-et-paiements-pour-developpeurs",
+              "identifier": "se-reunir-sans-sendormir-et-paiements-pour-developpeurs",
+              "url": "https://api.caen.camp/api/events/se-reunir-sans-sendormir-et-paiements-pour-developpeurs",
+              "name": "Se réunir sans s'endormir et paiements pour développeurs",
+              "startDate": "2013-11-15T00:00:00+01:00",
+              "disambiguatingDescription": "Se réunir sans s'endormir et paiements pour développeurs avec Paymill.",
+              "number": 15,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+            "identifier": "structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+            "url": "https://api.caen.camp/api/events/structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+            "name": "Structurez vos données avec les microdata / La programmation en binôme, c'est magique !",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Présentation des microdata puis quelle drôle d’idée que deux personnes réalisent une tâche pouvant être réalisée par une seule personne ? Cela ne multiplie-t-il pas les coûts par deux ?",
+            "video": "https://vimeo.com/61805644",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+              "identifier": "structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+              "url": "https://api.caen.camp/api/events/structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+              "name": "Structurez vos données avec les microdata / La programmation en binôme, c'est magique !",
+              "startDate": "2013-03-08T00:00:00+01:00",
+              "disambiguatingDescription": "Présentation des microdata puis quelle drôle d’idée que deux personnes réalisent une tâche pouvant être réalisée par une seule personne ? Cela ne multiplie-t-il pas les coûts par deux ?",
+              "number": 10,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "gael-reyrol",
+        "identifier": "gael-reyrol",
+        "url": "https://api.caen.camp/api/speakers/gael-reyrol",
+        "name": "Gaël Reyrol",
+        "disambiguatingDescription": "lead dev @dansmaculottefr | former devops @SoyHuCe, #RollerDerby player & @42born2code alumni",
+        "description": "Je m’appelle Gaël Reyrol, j’ai 24 ans, je niaise à Caen et je\nsuis développeur fullstack ainsi que devops, chez dans ma culotte\n[https://dansmaculotte.com/fr].\n\nLa programmation ainsi que l’informatique en général me passionne\ndepuis mes 12, 13 ans en commençant par des serveurs privés World of\nWarcraft. J’ai intégré l’École 42 à son lancement en 2013.\n\nPendant ma scolarité à l’école 42 j’y ai découvert\nl’impression 3D dans les différents fablabs et hackerspaces de la\ncapitale, ce qui m’a conduit à la création de ma propre startup\nMakeidea une plateforme de partage de modèles 3D à imprimer.\n",
+        "descriptionHtml": "<p>Je m’appelle Gaël Reyrol, j’ai 24 ans, je niaise à Caen et je suis développeur fullstack ainsi que devops, chez <a href=\"https://dansmaculotte.com/fr\">dans ma culotte</a>.</p>\n<p>La programmation ainsi que l’informatique en général me passionne depuis mes 12, 13 ans en commençant par des serveurs privés World of Warcraft. J’ai intégré l’École 42 à son lancement en 2013.</p>\n<p>Pendant ma scolarité à l’école 42 j’y ai découvert l’impression 3D dans les différents fablabs et hackerspaces de la capitale, ce qui m’a conduit à la création de ma propre startup Makeidea une plateforme de partage de modèles 3D à imprimer.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/Zevran",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/gaelreyrol/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://gaelreyrol.dev/",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/GaelReyrol",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "retour-de-xp-sur-lhebergement-des-db-et-applications-sur-le-paas-de-clever-cloud",
+            "identifier": "retour-de-xp-sur-lhebergement-des-db-et-applications-sur-le-paas-de-clever-cloud",
+            "url": "https://api.caen.camp/api/events/edition-1",
+            "name": "Retour de XP sur l'hébergement des DB et applications sur le PaaS de Clever Cloud",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Présentation de HashiCorp Consul et retour d'expériences sur Clever Cloud",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "edition-1",
+              "identifier": "edition-1",
+              "url": "https://api.caen.camp/api/events/edition-1",
+              "name": "Édition 1",
+              "startDate": "2019-11-06T18:30:00+01:00",
+              "disambiguatingDescription": "Présentation de HashiCorp Consul et retour d'expériences sur Clever Cloud",
+              "number": 1,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "introduction-au-devops",
+            "identifier": "introduction-au-devops",
+            "url": "https://api.caen.camp/api/events/introduction-au-devops",
+            "name": "Introduction au DevOps",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Ce meetup aura pour but de démystifier ce terme aujourd'hui devenu incontournable, comprendre la place qu'il occupe au sein d'une entreprise et ainsi que les problèmes qu'il adresse.",
+            "video": "https://www.youtube.com/watch?v=gYffPoFsp4w",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "introduction-au-devops",
+              "identifier": "introduction-au-devops",
+              "url": "https://api.caen.camp/api/events/introduction-au-devops",
+              "name": "Introduction au DevOps",
+              "startDate": "2018-02-20T18:30:00+01:00",
+              "disambiguatingDescription": "Ce meetup aura pour but de démystifier ce terme aujourd'hui devenu incontournable, comprendre la place qu'il occupe au sein d'une entreprise et ainsi que les problèmes qu'il adresse.",
+              "number": 36,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "guillaume-darbonne",
+        "identifier": "guillaume-darbonne",
+        "url": "https://api.caen.camp/api/speakers/guillaume-darbonne",
+        "name": "Guillaume Darbonne",
+        "disambiguatingDescription": "Internet addict since 1995. Dad. Full Stack Developer. @RotiSurvey Co Founder. @meteorjs evangelist 🚀",
+        "description": "Internet addict since 1995. Dad. Full Stack Developer. @RotiSurvey Co\nFounder. @meteorjs evangelist 🚀\n",
+        "descriptionHtml": "<p>Internet addict since 1995. Dad. Full Stack Developer. @RotiSurvey Co Founder. @meteorjs evangelist 🚀</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/guidouil",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/guillaume-darbonne-85783a6/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://about.me/guidouil",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/guidouil",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "meteor",
+            "identifier": "meteor",
+            "url": "https://api.caen.camp/api/events/recherche-full-text-avec-elasticsearch",
+            "name": "Meteor",
+            "format": {
+              "label": "Lightning",
+              "durationInMinutes": 5
+            },
+            "abstract": "Guillaume viendra nous parler de l'un de ses outils favoris: Meteor",
+            "video": "https://www.youtube.com/watch?v=d4H4J00t3hI",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "recherche-full-text-avec-elasticsearch",
+              "identifier": "recherche-full-text-avec-elasticsearch",
+              "url": "https://api.caen.camp/api/events/recherche-full-text-avec-elasticsearch",
+              "name": "Recherche full-text avec Elasticsearch",
+              "startDate": "2018-06-26T18:30:00+02:00",
+              "disambiguatingDescription": "L’objectif de cette présentation sera d’introduire Elasticsearch et ses cas d’utilisation. Nous mettrons l’accent sur les possibilités que cet outil offre dans le cadre d’une recherche full-text, qui passe par le traitement du langage naturel.",
+              "number": 39,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "jean-baptiste-oellers",
+        "identifier": "jean-baptiste-oellers",
+        "url": "https://api.caen.camp/api/speakers/jean-baptiste-oellers",
+        "name": "Jean-Baptiste Oellers",
+        "disambiguatingDescription": "Développeur passionné depuis toujours, professionnel depuis 2009.",
+        "description": "Jean-Baptiste est développeur passionné depuis toujours, professionnel depuis 2009. Après quelques années en Bretagne puis en Savoie, il poursuit aujourd'hui son parcours à Caen.",
+        "descriptionHtml": "<p>Jean-Baptiste est développeur passionné depuis toujours, professionnel depuis 2009. Après quelques années en Bretagne puis en Savoie, il poursuit aujourd&#39;hui son parcours à Caen.</p>\n",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": null,
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "linformatique-une-histoire-de-la-complexite",
+            "identifier": "linformatique-une-histoire-de-la-complexite",
+            "url": "https://api.caen.camp/api/events/linformatique-une-histoire-de-la-complexite",
+            "name": "L'informatique, une histoire de la complexité.",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Frederick Brooks nous l'a appris : ajouter des développeurs à un projet en retard ne fait qu'augmenter ce retard. Ce fléau des projets informatiques a un nom : la complexité. Ensemble, explorons l'histoire de l'informatique pour découvrir comment l'informatique est devenue complexe.",
+            "video": "https://youtu.be/cBHZv4pqK1M",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "linformatique-une-histoire-de-la-complexite",
+              "identifier": "linformatique-une-histoire-de-la-complexite",
+              "url": "https://api.caen.camp/api/events/linformatique-une-histoire-de-la-complexite",
+              "name": "L'informatique, une histoire de la complexité.",
+              "startDate": "2023-09-27T18:30:00+02:00",
+              "disambiguatingDescription": "Frederick Brooks nous l'a appris : ajouter des développeurs à un projet en retard ne fait qu'augmenter ce retard. Ce fléau des projets informatiques a un nom : la complexité. Ensemble, explorons l'histoire de l'informatique pour découvrir comment l'informatique est devenue complexe.",
+              "number": 59,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "micro-frontends-et-web-components",
+            "identifier": "micro-frontends-et-web-components",
+            "url": "https://api.caen.camp/api/events/micro-frontends-et-web-components",
+            "name": "Micro Frontends et Web Components",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Votre projet front est devenu trop gros et trop complexe : il est temps de le découper. Mais comment faire ?",
+            "video": "https://youtu.be/DkfNN1fae-8",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "micro-frontends-et-web-components",
+              "identifier": "micro-frontends-et-web-components",
+              "url": "https://api.caen.camp/api/events/micro-frontends-et-web-components",
+              "name": "Micro Frontends et Web Components",
+              "startDate": "2020-01-29T18:30:00+01:00",
+              "disambiguatingDescription": "Votre projet front est devenu trop gros et trop complexe : il est temps de le découper. Mais comment faire ?",
+              "number": 47,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "jeremy-leherpeur",
+        "identifier": "jeremy-leherpeur",
+        "url": "https://api.caen.camp/api/speakers/jeremy-leherpeur",
+        "name": "Jéremy Leherpeur",
+        "disambiguatingDescription": "Co-fondateur @hohey_fr Développeur @Yousignfr",
+        "description": "",
+        "descriptionHtml": "",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/amenophis",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/jeremyleherpeur/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/jleherpeur",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "premiers-pas-avec-docker",
+            "identifier": "premiers-pas-avec-docker",
+            "url": "https://api.caen.camp/api/events/premiers-pas-avec-docker",
+            "name": "Premiers pas avec docker",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Vous n'avez toujours pas une flotte de conteneurs sur votre laptop ? Venez découvrir pourquoi certains n'installent même plus PHP ou MySQL sur leur machine.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "premiers-pas-avec-docker",
+              "identifier": "premiers-pas-avec-docker",
+              "url": "https://api.caen.camp/api/events/premiers-pas-avec-docker",
+              "name": "Premiers pas avec docker",
+              "startDate": "2017-05-30T18:30:00+02:00",
+              "disambiguatingDescription": "Vous n'avez toujours pas une flotte de conteneurs sur votre laptop ? Venez découvrir pourquoi certains n'installent même plus PHP ou MySQL sur leur machine.",
+              "number": 30,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "jonathan-petitcolas",
+        "identifier": "jonathan-petitcolas",
+        "url": "https://api.caen.camp/api/speakers/jonathan-petitcolas",
+        "name": "Jonathan Petitcolas",
+        "disambiguatingDescription": "Developer at @marmelab - Node.js, React, Angular, Go, Arduino, Docker",
+        "description": "Développeur PHP disposant d'une très solide expérience en création\nd'applications Web et mobiles ainsi que d'importantes notions\nd'entrepreneuriat.\n",
+        "descriptionHtml": "<p>Développeur PHP disposant d'une très solide expérience en création d'applications Web et mobiles ainsi que d'importantes notions d'entrepreneuriat.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/jpetitcolas",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/jonathanpetitcolas",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://www.jonathan-petitcolas.com",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/sethpolma",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "tester-son-code-javascript-avec-jest",
+            "identifier": "tester-son-code-javascript-avec-jest",
+            "url": "https://api.caen.camp/api/events/tester-son-code-javascript-avec-jest",
+            "name": "Tester son code Javascript avec Jest",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Pour cette #32 édition de reprise, c'est Jonathan de chez Marmelab qui viendra de sa lointaine Lorraine pour nous parler de Jest.",
+            "video": "https://www.youtube.com/watch?v=jbG8DJQTt1o",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "tester-son-code-javascript-avec-jest",
+              "identifier": "tester-son-code-javascript-avec-jest",
+              "url": "https://api.caen.camp/api/events/tester-son-code-javascript-avec-jest",
+              "name": "Tester son code Javascript avec Jest",
+              "startDate": "2017-09-26T18:30:00+02:00",
+              "disambiguatingDescription": "Pour cette #32 édition de reprise, c'est Jonathan de chez Marmelab qui viendra de sa lointaine Lorraine pour nous parler de Jest.",
+              "number": 32,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "julien-anne",
+        "identifier": "julien-anne",
+        "url": "https://api.caen.camp/api/speakers/julien-anne",
+        "name": "Julien Anne",
+        "disambiguatingDescription": "Dév, Agilité, Pair Programming, Ruby On Rails, Debian, Open source, TDD, débutant maker",
+        "description": "Développeur web agile passionné de nouvelles technos (Ruby On Rails,\nLinux, ...), responsable équipe de développement Confexion chez\nCloud Temple - Intrinsec\n",
+        "descriptionHtml": "<p>Développeur web agile passionné de nouvelles technos (Ruby On Rails, Linux, ...), responsable équipe de\ndéveloppement Confexion chez Cloud Temple - Intrinsec</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/julienanne",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/julien-anne-6a72b279",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/julien_anne",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "a-la-decouverte-des-tests-automatiques",
+            "identifier": "a-la-decouverte-des-tests-automatiques",
+            "url": "https://api.caen.camp/api/events/a-la-decouverte-des-tests-automatiques",
+            "name": "A la découverte des tests automatiques",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Les tests sont de plus en plus répandus comme bonne pratique de programmation. A quoi cela peut-il bien servir ? Est-ce vraiment utile dans mon contexte ? Comment les mettre en place ?",
+            "video": "https://youtu.be/46AYdmshkKw",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "a-la-decouverte-des-tests-automatiques",
+              "identifier": "a-la-decouverte-des-tests-automatiques",
+              "url": "https://api.caen.camp/api/events/a-la-decouverte-des-tests-automatiques",
+              "name": "A la découverte des tests automatiques",
+              "startDate": "2020-09-23T18:30:00+02:00",
+              "disambiguatingDescription": "Les tests sont de plus en plus répandus comme bonne pratique de programmation. A quoi cela peut-il bien servir ? Est-ce vraiment utile dans mon contexte ? Comment les mettre en place ?",
+              "number": 49,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "emberjs-angularjs-les-mains-dans-le-cambouis",
+            "identifier": "emberjs-angularjs-les-mains-dans-le-cambouis",
+            "url": "https://api.caen.camp/api/events/emberjs-angularjs-les-mains-dans-le-cambouis",
+            "name": "EmberJS/AngularJS, les mains dans le cambouis",
+            "format": {
+              "label": "Dojo",
+              "durationInMinutes": 180
+            },
+            "abstract": "Après la réalisation succincte d'un back-end de Kanban, nous allons nous commencer à itérer sur la partie front-end. Nous nous aiderons soit d'AngularJS soit d'EmberJS, en fonction du choix des participants.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "emberjs-angularjs-les-mains-dans-le-cambouis",
+              "identifier": "emberjs-angularjs-les-mains-dans-le-cambouis",
+              "url": "https://api.caen.camp/api/events/emberjs-angularjs-les-mains-dans-le-cambouis",
+              "name": "EmberJS/AngularJS, les mains dans le cambouis",
+              "startDate": "2013-12-16T00:00:00+01:00",
+              "disambiguatingDescription": "Après la réalisation succincte d'un back-end de Kanban, nous allons nous commencer à itérer sur la partie front-end. Nous nous aiderons soit d'AngularJS soit d'EmberJS, en fonction du choix des participants.",
+              "number": 2,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+            "identifier": "ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+            "url": "https://api.caen.camp/api/events/ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+            "name": "Ruby on Rails / AngularJS : les mains dans le cambouis",
+            "format": {
+              "label": "Dojo",
+              "durationInMinutes": 180
+            },
+            "abstract": "Rails est un framework qui est devenu, en dix ans, l'un des outils de conception web de référence.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+              "identifier": "ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+              "url": "https://api.caen.camp/api/events/ruby-on-rails-angularjs-les-mains-dans-le-cambouis",
+              "name": "Ruby on Rails / AngularJS : les mains dans le cambouis",
+              "startDate": "2013-11-25T00:00:00+01:00",
+              "disambiguatingDescription": "Rails est un framework qui est devenu, en dix ans, l'un des outils de conception web de référence.",
+              "number": 1,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "rails-angularjs-tdd-pair-programming",
+            "identifier": "rails-angularjs-tdd-pair-programming",
+            "url": "https://api.caen.camp/api/events/rails-angularjs-tdd-pair-programming",
+            "name": "Rails + AngularJS + TDD + Pair Programming",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Prenez deux développeurs motivés, Julien Anne et Matthieu Hébert. Ajoutez de l'agile, du binômage, du TDD, du Rails et un peu d'AngularJS. Secouez le tout, laissez reposer une année et découvrez le retour d'expérience d'une équipe agile en live-coding.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "rails-angularjs-tdd-pair-programming",
+              "identifier": "rails-angularjs-tdd-pair-programming",
+              "url": "https://api.caen.camp/api/events/rails-angularjs-tdd-pair-programming",
+              "name": "Rails + AngularJS + TDD + Pair Programming",
+              "startDate": "2013-06-24T00:00:00+02:00",
+              "disambiguatingDescription": "Prenez deux développeurs motivés, Julien Anne et Matthieu Hébert. Ajoutez de l'agile, du binômage, du TDD, du Rails et un peu d'AngularJS. Secouez le tout, laissez reposer une année et découvrez le retour d'expérience d'une équipe agile en live-coding.",
+              "number": 13,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "kevin-bizien",
+        "identifier": "kevin-bizien",
+        "url": "https://api.caen.camp/api/speakers/kevin-bizien",
+        "name": "Kévin Bizien",
+        "disambiguatingDescription": "Creative developer",
+        "description": "Creative Developer - Design System @Yousignfr @kbizien - @cssflip\norganiser - Front-end Architecture advisor - CSS Desintegrator - BOOM.\nFore more, please get in touch. www.kevinbizien.com\n",
+        "descriptionHtml": "<p>Creative Developer - Design System @Yousignfr @kbizien - @cssflip organiser - Front-end Architecture advisor - CSS Desintegrator - BOOM. Fore more, please get in touch. www.kevinbizien.com</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/KBizien",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/k%C3%A9vin-bizien-9b366658/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://www.kevinbizien.com/",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/kbizien",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "architecture-css-avec-itcss-et-inuitcss",
+            "identifier": "architecture-css-avec-itcss-et-inuitcss",
+            "url": "https://api.caen.camp/api/events/architecture-css-avec-itcss-et-inuitcss",
+            "name": "Architecture CSS avec ITCSS et InuitCSS",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Lors de ce meetup, nous verrons comment l’utilisation d’outils tels que ITCSS ou InuitCSS permet de mettre en place une véritable architecture au sein des fichiers CSS.",
+            "video": "https://www.youtube.com/watch?v=W4S2nrhRGzs",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "architecture-css-avec-itcss-et-inuitcss",
+              "identifier": "architecture-css-avec-itcss-et-inuitcss",
+              "url": "https://api.caen.camp/api/events/architecture-css-avec-itcss-et-inuitcss",
+              "name": "Architecture CSS avec ITCSS et InuitCSS",
+              "startDate": "2018-03-27T18:30:00+02:00",
+              "disambiguatingDescription": "Lors de ce meetup, nous verrons comment l’utilisation d’outils tels que ITCSS ou InuitCSS permet de mettre en place une véritable architecture au sein des fichiers CSS.",
+              "number": 37,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "kevin-maschtaler",
+        "identifier": "kevin-maschtaler",
+        "url": "https://api.caen.camp/api/speakers/kevin-maschtaler",
+        "name": "Kévin Maschtaler",
+        "disambiguatingDescription": "I write code",
+        "description": "Full-stack web developer at marmelab, Kevin also shows impressive\nsysadmin skills, and a passion for obscure cryptocurrencies. Oh, and\ndon't challenge him at fussbal, unless you're a champion.\n",
+        "descriptionHtml": "<p>Full-stack web developer at marmelab, Kevin also shows impressive sysadmin skills, and a passion for obscure cryptocurrencies. Oh, and don't challenge him at fussbal, unless you're a champion.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/Kmaschta",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/kmaschta/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://www.kmaschta.me",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/Kmaschta",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+            "identifier": "le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+            "url": "https://api.caen.camp/api/events/le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+            "name": "Le budget d'erreurs: un outil agile pour orienter devs et sysadmins vers le même objectif.",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Après Yousign pour l’édition #37, c’est Marmelab qui s’y colle pour cette édition #38 avec du Docker et du Site Reliability Engineering (SRE) applicable à la culture DevOps.",
+            "video": "https://www.youtube.com/watch?v=GxOgHgXzISc",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+              "identifier": "le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+              "url": "https://api.caen.camp/api/events/le-budget-derreurs-un-outil-agile-pour-orienter-devs-et-sysadmins-vers-le-meme-objectif",
+              "name": "Le budget d'erreurs: un outil agile pour orienter devs et sysadmins vers le même objectif.",
+              "startDate": "2018-05-29T18:30:00+02:00",
+              "disambiguatingDescription": "Après Yousign pour l’édition #37, c’est Marmelab qui s’y colle pour cette édition #38 avec du Docker et du Site Reliability Engineering (SRE) applicable à la culture DevOps.",
+              "number": 38,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "korbik",
+        "identifier": "korbik",
+        "url": "https://api.caen.camp/api/speakers/korbik",
+        "name": "Korbik",
+        "disambiguatingDescription": "Scala & Java Architect for living. Photo, Coffee, Wine and beers for the rest",
+        "description": "",
+        "descriptionHtml": "",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://twitter.com/korbik",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "la-programmation-fonctionnelle-avec-scala",
+            "identifier": "la-programmation-fonctionnelle-avec-scala",
+            "url": "https://api.caen.camp/api/events/la-programmation-fonctionnelle-avec-scala",
+            "name": "La programmation fonctionnelle avec Scala",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Découverte de la Programmation fonctionnelle et de Scala.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "la-programmation-fonctionnelle-avec-scala",
+              "identifier": "la-programmation-fonctionnelle-avec-scala",
+              "url": "https://api.caen.camp/api/events/la-programmation-fonctionnelle-avec-scala",
+              "name": "La programmation fonctionnelle avec Scala",
+              "startDate": "2014-10-30T00:00:00+01:00",
+              "disambiguatingDescription": "Découverte de la Programmation fonctionnelle et de Scala.",
+              "number": 24,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "laurence-pelc",
+        "identifier": "laurence-pelc",
+        "url": "https://api.caen.camp/api/speakers/laurence-pelc",
+        "name": "Laurence Pelc",
+        "disambiguatingDescription": "Développeuse back-end chez Legallais",
+        "description": "A la suite d'une licence de lettres modernes, je me suis dirigée vers\nun master EMT (Edition Mémoire des Textes) afin de me former aux\nmétiers du document. Je me suis petit à petit spécialisée dans le\ndocument numérique dans le domaine de l'édition, en travaillant sur\nla structuration numérique des livres et leur export au format ePub,\nlors de plusieurs expériences professionnelles. Ayant eu envie\nd'acquérir des compétences plus techniques et un champ\nd'apprentissage plus vaste, j'ai repris mes études dans un master\nDNR2i, qui forme notamment aux métiers du web.\n\nActuellement en poste en tant que développeuse, j'essaie, pour le\nmoment, de cultiver un profil back-end.\n",
+        "descriptionHtml": "<p>A la suite d'une licence de lettres modernes, je me suis dirigée vers un master EMT (Edition Mémoire des Textes) afin de me former aux métiers du document. Je me suis petit à petit spécialisée dans le document numérique dans le domaine de l'édition, en travaillant sur la structuration numérique des livres et leur export au format ePub, lors de plusieurs expériences professionnelles.\nAyant eu envie d'acquérir des compétences plus techniques et un champ d'apprentissage plus vaste, j'ai repris mes études dans un master DNR2i, qui forme notamment aux métiers du web.</p>\n<p>Actuellement en poste en tant que développeuse, j'essaie, pour le moment, de cultiver un profil back-end.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://fr.linkedin.com/in/laurencepelc",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/LaurencePelc",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "recherche-full-text-avec-elasticsearch",
+            "identifier": "recherche-full-text-avec-elasticsearch",
+            "url": "https://api.caen.camp/api/events/recherche-full-text-avec-elasticsearch",
+            "name": "Recherche full-text avec Elasticsearch",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "L’objectif de cette présentation sera d’introduire Elasticsearch et ses cas d’utilisation. Nous mettrons l’accent sur les possibilités que cet outil offre dans le cadre d’une recherche full-text, qui passe par le traitement du langage naturel.",
+            "video": "https://www.youtube.com/watch?v=58YDGuj30d0",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "recherche-full-text-avec-elasticsearch",
+              "identifier": "recherche-full-text-avec-elasticsearch",
+              "url": "https://api.caen.camp/api/events/recherche-full-text-avec-elasticsearch",
+              "name": "Recherche full-text avec Elasticsearch",
+              "startDate": "2018-06-26T18:30:00+02:00",
+              "disambiguatingDescription": "L’objectif de cette présentation sera d’introduire Elasticsearch et ses cas d’utilisation. Nous mettrons l’accent sur les possibilités que cet outil offre dans le cadre d’une recherche full-text, qui passe par le traitement du langage naturel.",
+              "number": 39,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "laurent-jager",
+        "identifier": "laurent-jager",
+        "url": "https://api.caen.camp/api/speakers/laurent-jager",
+        "name": "Laurent Jager",
+        "disambiguatingDescription": "Développeur passionné de nouvelles technologies. @Cloudspreader @Leancure",
+        "description": "Cloudspreader builds interactive digital signage systems for data\nvisualisation and process monitoring.\n\nLeancure markets a lightweight and cost effective Manufacturing\nExecution System (MES) solution that enables industrial manufacturers\nto improve productivity.\n\nKeywords : Digital signage, data visualisation, internet of things,\nMES, industry, productivity, lean manufacturing.\n",
+        "descriptionHtml": "<p>Cloudspreader builds interactive digital signage systems for data visualisation and process monitoring.</p>\n<p>Leancure markets a lightweight and cost effective Manufacturing Execution System (MES) solution that enables industrial manufacturers to improve productivity.</p>\n<p>Keywords : Digital signage, data visualisation, internet of things, MES, industry, productivity, lean manufacturing.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://www.linkedin.com/in/laurent-jager-aa20071/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/laurentjager",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "presentation-du-systeme-gps",
+            "identifier": "presentation-du-systeme-gps",
+            "url": "https://api.caen.camp/api/events/presentation-du-systeme-gps",
+            "name": "Présentation du système GPS",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Laurent Jager, fort de ses 4 années d'expérience en développement et validation du système GPS d'une plateforme télématique, nous présentera les rouages du système GPS.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "presentation-du-systeme-gps",
+              "identifier": "presentation-du-systeme-gps",
+              "url": "https://api.caen.camp/api/events/presentation-du-systeme-gps",
+              "name": "Présentation du système GPS",
+              "startDate": "2014-03-27T00:00:00+01:00",
+              "disambiguatingDescription": "Laurent Jager, fort de ses 4 années d'expérience en développement et validation du système GPS d'une plateforme télématique, nous présentera les rouages du système GPS.",
+              "number": 19,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "mathieu-haton",
+        "identifier": "mathieu-haton",
+        "url": "https://api.caen.camp/api/speakers/mathieu-haton",
+        "name": "Mathieu Haton",
+        "disambiguatingDescription": "Développeur front-end chez Linkvalue.",
+        "description": "Développeur front-end chez Linkvalue.",
+        "descriptionHtml": "<p>Développeur front-end chez <a href=\"https://link-value.fr/\">Linkvalue</a>.</p>\n",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://fr.linkedin.com/in/mathieu-haton-4771713b",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/hatonm",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "refactoring-all-the-way",
+            "identifier": "refactoring-all-the-way",
+            "url": "https://api.caen.camp/api/events/refactoring-all-the-way",
+            "name": "'Re'factoring all the way",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Pourquoi et comment Reason a été utilisé lors de la refonte du design-system du site web d'Arte",
+            "video": "https://youtu.be/sphNUFPtxwQ",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "refactoring-all-the-way",
+              "identifier": "refactoring-all-the-way",
+              "url": "https://api.caen.camp/api/events/refactoring-all-the-way",
+              "name": "'Re'factoring all the way",
+              "startDate": "2021-01-20T18:30:00+01:00",
+              "disambiguatingDescription": "Pourquoi et comment Reason a été utilisé lors de la refonte du design-system du site web d'Arte",
+              "number": 51,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "mathieu-lallemand",
+        "identifier": "mathieu-lallemand",
+        "url": "https://api.caen.camp/api/speakers/mathieu-lallemand",
+        "name": "Mathieu Lallemand",
+        "disambiguatingDescription": "Web Dinosaur & Sherpa - Happiness Enthusiast",
+        "description": "MY MAIN JOB\n\nProject Manager (since 2011) - My main job Agile Project Management :\nKanban, Scrum, XP Agile Team Management : Kaizen, Management3.0\n\nBUT ALSO\n\nSenior Web Developper (First website built and published in 1995 !)\nFocused on : PHP / NodeJS / HTML5 But also fluent in Java, C#, VB.NET,\nPython, Delphi, C, Perl Development tools : Ubuntu, GIT, PhpStorm,\nSublimeText, Atom.IO and ZSH most of time. Best Known DB : MySQL\n(administration & use), SQL Server (use) Virtualization : Docker\n(platform in progress).\n\nINFRASTRUCTURE\n\nWmWare Infrastructure, ESX & ESXi Management. Hyper-V Management.\nVirtualBox & WmWare Workstation & Player used daily. Windows Server\nManagement, ActiveDirectory, WiFI & Radius Security, DNS, VPN, TMG,\nSSL/TLS certificates, iptables & firewalling stuff. Console addict.\nNetwork security tester.\n\nFOR THE FUN :\n\nIoT Builder (Since 2014) using NodeJS on Rasperry PI/2 with Arduino\nmodules. 3D Modeling & Design (mainly with Sketchup) and 3D Printing\n(with my own Pursa I3) Golf (36) Music (Listening & Playing)\n",
+        "descriptionHtml": "<h2>My Main Job</h2>\n<p>Project Manager (since 2011) - My main job\nAgile Project Management : Kanban, Scrum, XP\nAgile Team Management : Kaizen, Management3.0</p>\n<h2>But Also</h2>\n<p>Senior Web Developper (First website built and published in 1995 !)\nFocused on : PHP / NodeJS / HTML5\nBut also fluent in Java, C#, VB.NET, Python, Delphi, C, Perl\nDevelopment tools : Ubuntu, GIT, PhpStorm, SublimeText, Atom.IO and ZSH most of time.\nBest Known DB : MySQL (administration &amp; use), SQL Server (use)\nVirtualization : Docker (platform in progress).</p>\n<h2>Infrastructure</h2>\n<p>WmWare Infrastructure, ESX &amp; ESXi Management. Hyper-V Management. VirtualBox &amp; WmWare Workstation &amp; Player used daily. Windows Server Management, ActiveDirectory, WiFI &amp; Radius Security, DNS, VPN, TMG, SSL/TLS certificates, iptables &amp; firewalling stuff. Console addict.\nNetwork security tester.</p>\n<h2>For the fun :</h2>\n<p>IoT Builder (Since 2014) using NodeJS on Rasperry PI/2 with Arduino modules.\n3D Modeling &amp; Design (mainly with Sketchup) and 3D Printing (with my own Pursa I3)\nGolf (36)\nMusic (Listening &amp; Playing)</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/lalmat",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/mathieu-lallemand-b900b134/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/lalmat",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "vue-du-bonheur",
+            "identifier": "vue-du-bonheur",
+            "url": "https://api.caen.camp/api/events/vue-du-bonheur",
+            "name": "Vue du bonheur",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Pourquoi il faut utiliser Vue en 2023 et en 2024. Tour d’horizon (non exhaustif) de ce que l’eco-systeme est capable d’offrir à ce jour.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "vue-du-bonheur",
+              "identifier": "vue-du-bonheur",
+              "url": "https://api.caen.camp/api/events/vue-du-bonheur",
+              "name": "Vue du bonheur",
+              "startDate": "2023-10-25T18:30:00+02:00",
+              "disambiguatingDescription": "Pourquoi il faut utiliser Vue en 2023 et en 2024. Tour d’horizon (non exhaustif) de ce que l’eco-systeme est capable d’offrir à ce jour.",
+              "number": 60,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "gestion-agile-de-projet-et-marche-de-noel",
+            "identifier": "gestion-agile-de-projet-et-marche-de-noel",
+            "url": "https://api.caen.camp/api/events/gestion-agile-de-projet-et-marche-de-noel",
+            "name": "Gestion agile de projet et Marché de Noël",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "La gestion de projet est une discipline passionnante, surtout quand chaque projet est unique ou que le client n'a qu'une idée vague de ce qu'il veux.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "gestion-agile-de-projet-et-marche-de-noel",
+              "identifier": "gestion-agile-de-projet-et-marche-de-noel",
+              "url": "https://api.caen.camp/api/events/gestion-agile-de-projet-et-marche-de-noel",
+              "name": "Gestion agile de projet et Marché de Noël",
+              "startDate": "2013-12-19T00:00:00+01:00",
+              "disambiguatingDescription": "La gestion de projet est une discipline passionnante, surtout quand chaque projet est unique ou que le client n'a qu'une idée vague de ce qu'il veux.",
+              "number": 16,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "matthieu-hebert",
+        "identifier": "matthieu-hebert",
+        "url": "https://api.caen.camp/api/speakers/matthieu-hebert",
+        "name": "Matthieu Hebert",
+        "disambiguatingDescription": "Développeur web (souple et) agile. Membre des @caenrunners. Fan de rock anglais. Buveur de bière. Mangeur de chocolat.",
+        "description": "Développeur passionné par le Web, amateur de musique et de concerts,\nsportif et membre des Caen Runners.\n",
+        "descriptionHtml": "<p>Développeur passionné par le Web, amateur de musique et de concerts, sportif et membre des Caen Runners.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://www.linkedin.com/in/hebertmatthieu",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://matthieuhebert.fr/",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/maattt10",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "rails-angularjs-tdd-pair-programming",
+            "identifier": "rails-angularjs-tdd-pair-programming",
+            "url": "https://api.caen.camp/api/events/rails-angularjs-tdd-pair-programming",
+            "name": "Rails + AngularJS + TDD + Pair Programming",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Prenez deux développeurs motivés, Julien Anne et Matthieu Hébert. Ajoutez de l'agile, du binômage, du TDD, du Rails et un peu d'AngularJS. Secouez le tout, laissez reposer une année et découvrez le retour d'expérience d'une équipe agile en live-coding.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "rails-angularjs-tdd-pair-programming",
+              "identifier": "rails-angularjs-tdd-pair-programming",
+              "url": "https://api.caen.camp/api/events/rails-angularjs-tdd-pair-programming",
+              "name": "Rails + AngularJS + TDD + Pair Programming",
+              "startDate": "2013-06-24T00:00:00+02:00",
+              "disambiguatingDescription": "Prenez deux développeurs motivés, Julien Anne et Matthieu Hébert. Ajoutez de l'agile, du binômage, du TDD, du Rails et un peu d'AngularJS. Secouez le tout, laissez reposer une année et découvrez le retour d'expérience d'une équipe agile en live-coding.",
+              "number": 13,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "matthieu-sadouni",
+        "identifier": "matthieu-sadouni",
+        "url": "https://api.caen.camp/api/speakers/matthieu-sadouni",
+        "name": "Matthieu Sadouni",
+        "disambiguatingDescription": "Web developer at Imagile",
+        "description": "Développeur web avec 10 ans d'expérience, je suis spécialisé dans\nle développement de sites Web avec Ruby on Rails et CakePHP.\n\nJe conçois, développe, documente, teste et déploie des sites Web\npour différentes sociétés en Normandie et à Paris.\n",
+        "descriptionHtml": "<p>Développeur web avec 10 ans d'expérience, je suis spécialisé dans le développement de sites Web avec Ruby on Rails et CakePHP.</p>\n<p>Je conçois, développe, documente, teste et déploie des sites Web pour différentes sociétés en Normandie et à Paris.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/msadouni",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/msadouni/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/msadouni",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "utility-first-css",
+            "identifier": "utility-first-css",
+            "url": "https://api.caen.camp/api/events/utility-first-css",
+            "name": "Utility-first CSS",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Le CSS, moins on en fait, mieux on se porte.",
+            "video": "https://www.youtube.com/watch?v=VXN8ZQGbfg0",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "utility-first-css",
+              "identifier": "utility-first-css",
+              "url": "https://api.caen.camp/api/events/utility-first-css",
+              "name": "Utility-first CSS",
+              "startDate": "2019-09-24T18:30:00+02:00",
+              "disambiguatingDescription": "Le CSS, moins on en fait, mieux on se porte.",
+              "number": 45,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "golden-master-testing",
+            "identifier": "golden-master-testing",
+            "url": "https://api.caen.camp/api/events/golden-master-testing",
+            "name": "Golden Master Testing",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Il est très difficile d’adopter les techniques classiques de tests unitaires sur une application non testée car son code n’a pas été prévu en conséquence.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "golden-master-testing",
+              "identifier": "golden-master-testing",
+              "url": "https://api.caen.camp/api/events/golden-master-testing",
+              "name": "Golden Master Testing",
+              "startDate": "2015-02-26T00:00:00+01:00",
+              "disambiguatingDescription": "Il est très difficile d’adopter les techniques classiques de tests unitaires sur une application non testée car son code n’a pas été prévu en conséquence.",
+              "number": 26,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "edition-de-noel",
+            "identifier": "edition-de-noel",
+            "url": "https://api.caen.camp/api/events/edition-de-noel",
+            "name": "Édition de Noël",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Le 18 décembre aura lieu le dernier CaenCamp de 2014, édition particulièrement chargée !",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "edition-de-noel",
+              "identifier": "edition-de-noel",
+              "url": "https://api.caen.camp/api/events/edition-de-noel",
+              "name": "Édition de Noël",
+              "startDate": "2014-12-18T00:00:00+01:00",
+              "disambiguatingDescription": "Le 18 décembre aura lieu le dernier CaenCamp de 2014, édition particulièrement chargée !",
+              "number": 25,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "web-components-et-apero-forum-sur-le-theme-du-teletravail",
+            "identifier": "web-components-et-apero-forum-sur-le-theme-du-teletravail",
+            "url": "https://api.caen.camp/api/events/web-components-et-apero-forum-sur-le-theme-du-teletravail",
+            "name": "Web Components et Apéro-forum sur le thème du télétravail",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Changement de formule pour cette vingtième édition : nous organisons un apéro-forum autour du thème du télétravail. Avec en première partie une présentation des Web Components",
+            "video": "https://vimeo.com/96564573",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "web-components-et-apero-forum-sur-le-theme-du-teletravail",
+              "identifier": "web-components-et-apero-forum-sur-le-theme-du-teletravail",
+              "url": "https://api.caen.camp/api/events/web-components-et-apero-forum-sur-le-theme-du-teletravail",
+              "name": "Web Components et Apéro-forum sur le thème du télétravail",
+              "startDate": "2014-04-21T00:00:00+02:00",
+              "disambiguatingDescription": "Changement de formule pour cette vingtième édition : nous organisons un apéro-forum autour du thème du télétravail. Avec en première partie une présentation des Web Components",
+              "number": 20,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "git-pratique",
+            "identifier": "git-pratique",
+            "url": "https://api.caen.camp/api/events/git-pratique",
+            "name": "Git pratique",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Après la présentation de Git en octobre dernier, nous vous proposons d’aller plus loin dans l’utilisation au quotidien de cet outil : branches, rebasing, reset, commits partiels, etc.",
+            "video": "https://vimeo.com/56992853",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "git-pratique",
+              "identifier": "git-pratique",
+              "url": "https://api.caen.camp/api/events/git-pratique",
+              "name": "Git pratique",
+              "startDate": "2012-12-06T00:00:00+01:00",
+              "disambiguatingDescription": "Après la présentation de Git en octobre dernier, nous vous proposons d’aller plus loin dans l’utilisation au quotidien de cet outil : branches, rebasing, reset, commits partiels, etc.",
+              "number": 7,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "versioning-avec-git",
+            "identifier": "versioning-avec-git",
+            "url": "https://api.caen.camp/api/events/versioning-avec-git",
+            "name": "Versioning avec Git",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "C'est la rentrée, les CaenCamp reprennent avec la 5ème édition et une nouvelle formule : un thème par session, avec une présentation suivie d'un atelier",
+            "video": "https://vimeo.com/51759213",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "versioning-avec-git",
+              "identifier": "versioning-avec-git",
+              "url": "https://api.caen.camp/api/events/versioning-avec-git",
+              "name": "Versioning avec Git",
+              "startDate": "2012-10-09T00:00:00+02:00",
+              "disambiguatingDescription": "C'est la rentrée, les CaenCamp reprennent avec la 5ème édition et une nouvelle formule : un thème par session, avec une présentation suivie d'un atelier",
+              "number": 5,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "maxime-vincent",
+        "identifier": "maxime-vincent",
+        "url": "https://api.caen.camp/api/speakers/maxime-vincent",
+        "name": "Maxime Vincent",
+        "disambiguatingDescription": "Dev backend et Ops @Aria",
+        "description": "Développeur backend avec un penchant prononcé pour la partie opérationnelle. Sur mon temps libre j’aime bien bricoler et apprendre des choses. Informatique distribuée, bases de données, DevOps, IOT, électronique, sont des sujets qui m'intéressent particulièrement. En règle générale, tout système connecté capable de produire de la donnée ou d’en traiter m'intéresse. Pour apprendre, il m’arrive de me lancer dans des projets ou mon unique but est de réinventer la roue: do it yourself. Et petit détail au passage, j’aime la bière.",
+        "descriptionHtml": "<p>Développeur backend avec un penchant prononcé pour la partie opérationnelle. Sur mon temps libre j’aime bien bricoler et apprendre des choses. Informatique distribuée, bases de données, DevOps, IOT, électronique, sont des sujets qui m&#39;intéressent particulièrement. En règle générale, tout système connecté capable de produire de la donnée ou d’en traiter m&#39;intéresse. Pour apprendre, il m’arrive de me lancer dans des projets ou mon unique but est de réinventer la roue: do it yourself. Et petit détail au passage, j’aime la bière.</p>\n",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://www.linkedin.com/in/maxime-vincent-bb75b390/",
+            "type": "linkedin"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "kubernetes-un-ecosysteme-riche-a-la-portee-de-tous",
+            "identifier": "kubernetes-un-ecosysteme-riche-a-la-portee-de-tous",
+            "url": "https://api.caen.camp/api/events/kubernetes-un-ecosysteme-riche-a-la-portee-de-tous",
+            "name": "Kubernetes, un écosystème riche à la portée de tous",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Après une introduction aux conteneurs et à Kubernetes, nous verrons comment l'outil peut nous aider à déployer des conteneurs dans le cloud.",
+            "video": "https://youtu.be/PISaijH4tdo",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "kubernetes-un-ecosysteme-riche-a-la-portee-de-tous",
+              "identifier": "kubernetes-un-ecosysteme-riche-a-la-portee-de-tous",
+              "url": "https://api.caen.camp/api/events/kubernetes-un-ecosysteme-riche-a-la-portee-de-tous",
+              "name": "Kubernetes, un écosystème riche à la portée de tous",
+              "startDate": "2022-01-24T18:30:00+01:00",
+              "disambiguatingDescription": "Kubernetes, un écosystème riche à la portée de tous",
+              "number": 56,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "traefik",
+            "identifier": "traefik",
+            "url": "https://api.caen.camp/api/events/phpspec-les-tests-unitaires-version-bdd",
+            "name": "Træfik",
+            "format": {
+              "label": "Lightning",
+              "durationInMinutes": 5
+            },
+            "abstract": "Au travers un cas d'usage, Maxime nous dira pourquoi Træfik, un reverse-proxy pour conteneurs, lui semble être un outil important dans l'atelier du développeur.",
+            "video": "https://www.youtube.com/watch?v=TCfwIKaIhaI",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "phpspec-les-tests-unitaires-version-bdd",
+              "identifier": "phpspec-les-tests-unitaires-version-bdd",
+              "url": "https://api.caen.camp/api/events/phpspec-les-tests-unitaires-version-bdd",
+              "name": "phpSpec: Les tests unitaires version BDD",
+              "startDate": "2018-10-30T18:30:00+01:00",
+              "disambiguatingDescription": "PhpUnit est très généralisé. Voilà l'occasion de découvrir une alternative: PhpSpec ! Ne pensez plus test unitaire, pensez Specifications !",
+              "number": 40,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "mederic-salles",
+        "identifier": "mederic-salles",
+        "url": "https://api.caen.camp/api/speakers/mederic-salles",
+        "name": "Médéric Salles",
+        "disambiguatingDescription": "IA & BlockChain Engineer, My last project deals with Artificial Intelligence and BlockChain for e-tourism.",
+        "description": "15 ans de web, d'IA et d'innovation en mode start-up. Actuellement CTO\nd'une start-up parisienne en remote depuis la Normandie, toujours un\nprojet dans la manche ...\n",
+        "descriptionHtml": "<p>15 ans de web, d'IA et d'innovation en mode start-up. Actuellement CTO d'une start-up parisienne en remote depuis la Normandie, toujours un projet dans la manche ...</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://www.linkedin.com/in/medericsalles/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://medium.com/@mederic.salles",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/mederic_salles",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "infrastructure-it-une-journee-en-mode-devops",
+            "identifier": "infrastructure-it-une-journee-en-mode-devops",
+            "url": "https://api.caen.camp/api/events/infrastructure-it-une-journee-en-mode-devops",
+            "name": "Infrastructure IT, une journée en mode devops",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Retour sur la réalité des infras dans les entreprises et description d'une journée type en mode devops quand une infra est presque complète suivi d'échanges d'idées sur le management technique grâce à ces outils.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "infrastructure-it-une-journee-en-mode-devops",
+              "identifier": "infrastructure-it-une-journee-en-mode-devops",
+              "url": "https://api.caen.camp/api/events/infrastructure-it-une-journee-en-mode-devops",
+              "name": "Infrastructure IT, une journée en mode devops",
+              "startDate": "2019-11-26T18:30:00+01:00",
+              "disambiguatingDescription": "Retour sur la réalité des infras dans les entreprises et description d'une journée type en mode devops quand une infra est presque complète suivi d'échanges d'idées sur le management technique grâce à ces outils.",
+              "number": 46,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "nicolas-ledez",
+        "identifier": "nicolas-ledez",
+        "url": "https://api.caen.camp/api/speakers/nicolas-ledez",
+        "name": "Nicolas Ledez",
+        "disambiguatingDescription": "I am a devops guru. I've been working with Open Source since 1995. My toolkit includes Python, Go, Linux, Saltstack, Ansible, Hashicorp...",
+        "description": "De formation industrielle et autodidacte en informatique. Je travaille\ndepuis 1999 dans le secteur de l'IT.\n\nJ'ai travaillé de manière hétérogène, tant en terme de clients\nque de technologie.\n\nJ'ai donc aujourd'hui un domaine de compétence assez vaste. Ce qui me\npermet d'appréhender rapidement des projets complexes et fluidifie le\ndialogue avec mes différents interlocuteurs.\n\nSpécialisations : architecture réseau et système, gestion de\nprojet, virtualisation, documentation, exploitation, développement\n",
+        "descriptionHtml": "<p>De formation industrielle et autodidacte en informatique. Je travaille depuis 1999 dans le secteur de l'IT.</p>\n<p>J'ai travaillé de manière hétérogène, tant en terme de clients que de technologie.</p>\n<p>J'ai donc aujourd'hui un domaine de compétence assez vaste. Ce qui me permet d'appréhender rapidement des projets complexes et fluidifie le dialogue avec mes différents interlocuteurs.</p>\n<p>Spécialisations : architecture réseau et système, gestion de projet, virtualisation, documentation, exploitation, développement</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/nledez/",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/nicolasledez",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://nicolas.ledez.net/",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/nledez",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "presentation-de-hashicorp-consul",
+            "identifier": "presentation-de-hashicorp-consul",
+            "url": "https://api.caen.camp/api/events/edition-1",
+            "name": "Présentation de HashiCorp Consul",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Présentation de HashiCorp Consul et retour d'expériences sur Clever Cloud",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "edition-1",
+              "identifier": "edition-1",
+              "url": "https://api.caen.camp/api/events/edition-1",
+              "name": "Édition 1",
+              "startDate": "2019-11-06T18:30:00+01:00",
+              "disambiguatingDescription": "Présentation de HashiCorp Consul et retour d'expériences sur Clever Cloud",
+              "number": 1,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "pierre-emmanuel-fringant",
+        "identifier": "pierre-emmanuel-fringant",
+        "url": "https://api.caen.camp/api/speakers/pierre-emmanuel-fringant",
+        "name": "Pierre-Emmanuel Fringant",
+        "disambiguatingDescription": "Développeur front end",
+        "description": "",
+        "descriptionHtml": "",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/pefringant",
+            "type": "github"
+          },
+          {
+            "url": "https://twitter.com/pefringant",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "utility-first-css",
+            "identifier": "utility-first-css",
+            "url": "https://api.caen.camp/api/events/utility-first-css",
+            "name": "Utility-first CSS",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Le CSS, moins on en fait, mieux on se porte.",
+            "video": "https://www.youtube.com/watch?v=VXN8ZQGbfg0",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "utility-first-css",
+              "identifier": "utility-first-css",
+              "url": "https://api.caen.camp/api/events/utility-first-css",
+              "name": "Utility-first CSS",
+              "startDate": "2019-09-24T18:30:00+02:00",
+              "disambiguatingDescription": "Le CSS, moins on en fait, mieux on se porte.",
+              "number": 45,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "peut-on-travailler-proprement-avec-wordpress",
+            "identifier": "peut-on-travailler-proprement-avec-wordpress",
+            "url": "https://api.caen.camp/api/events/peut-on-travailler-proprement-avec-wordpress",
+            "name": "Peut-on travailler proprement avec Wordpress ?",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Wordpress est un outil formidable très utilisé dans le monde. Mais peut-on l'intégrer dans un flux de production moderne ?",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "peut-on-travailler-proprement-avec-wordpress",
+              "identifier": "peut-on-travailler-proprement-avec-wordpress",
+              "url": "https://api.caen.camp/api/events/peut-on-travailler-proprement-avec-wordpress",
+              "name": "Peut-on travailler proprement avec Wordpress ?",
+              "startDate": "2015-06-04T00:00:00+02:00",
+              "disambiguatingDescription": "Wordpress est un outil formidable très utilisé dans le monde. Mais peut-on l'intégrer dans un flux de production moderne ?",
+              "number": 27,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "golden-master-testing",
+            "identifier": "golden-master-testing",
+            "url": "https://api.caen.camp/api/events/golden-master-testing",
+            "name": "Golden Master Testing",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Il est très difficile d’adopter les techniques classiques de tests unitaires sur une application non testée car son code n’a pas été prévu en conséquence.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "golden-master-testing",
+              "identifier": "golden-master-testing",
+              "url": "https://api.caen.camp/api/events/golden-master-testing",
+              "name": "Golden Master Testing",
+              "startDate": "2015-02-26T00:00:00+01:00",
+              "disambiguatingDescription": "Il est très difficile d’adopter les techniques classiques de tests unitaires sur une application non testée car son code n’a pas été prévu en conséquence.",
+              "number": 26,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "svg-format-cle-du-responsive",
+            "identifier": "svg-format-cle-du-responsive",
+            "url": "https://api.caen.camp/api/events/svg-format-cle-du-responsive",
+            "name": "SVG, format clé du responsive",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Le format SVG est en plein essor depuis l'avènement du responsive design.",
+            "video": "https://vimeo.com/107227980",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "svg-format-cle-du-responsive",
+              "identifier": "svg-format-cle-du-responsive",
+              "url": "https://api.caen.camp/api/events/svg-format-cle-du-responsive",
+              "name": "SVG, format clé du responsive",
+              "startDate": "2014-09-25T00:00:00+02:00",
+              "disambiguatingDescription": "Le format SVG est en plein essor depuis l'avènement du responsive design.",
+              "number": 23,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+            "identifier": "structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+            "url": "https://api.caen.camp/api/events/structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+            "name": "Structurez vos données avec les microdata / La programmation en binôme, c'est magique !",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Présentation des microdata puis quelle drôle d’idée que deux personnes réalisent une tâche pouvant être réalisée par une seule personne ? Cela ne multiplie-t-il pas les coûts par deux ?",
+            "video": "https://vimeo.com/61805644",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+              "identifier": "structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+              "url": "https://api.caen.camp/api/events/structurez-vos-donnees-avec-les-microdata-la-programmation-en-binome-cest-magique",
+              "name": "Structurez vos données avec les microdata / La programmation en binôme, c'est magique !",
+              "startDate": "2013-03-08T00:00:00+01:00",
+              "disambiguatingDescription": "Présentation des microdata puis quelle drôle d’idée que deux personnes réalisent une tâche pouvant être réalisée par une seule personne ? Cela ne multiplie-t-il pas les coûts par deux ?",
+              "number": 10,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "initiation-a-sass-compass-et-susy",
+            "identifier": "initiation-a-sass-compass-et-susy",
+            "url": "https://api.caen.camp/api/events/initiation-a-sass-compass-et-susy",
+            "name": "Initiation à Sass, Compass et Susy",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Démonstration de l'utilité et de la facilité d'utilisation du préprocesseur CSS SASS, du framework Compass et de son plugin de grilles Susy.",
+            "video": "https://vimeo.com/59222429",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "initiation-a-sass-compass-et-susy",
+              "identifier": "initiation-a-sass-compass-et-susy",
+              "url": "https://api.caen.camp/api/events/initiation-a-sass-compass-et-susy",
+              "name": "Initiation à Sass, Compass et Susy",
+              "startDate": "2013-01-11T00:00:00+01:00",
+              "disambiguatingDescription": "Démonstration de l'utilité et de la facilité d'utilisation du préprocesseur CSS SASS, du framework Compass et de son plugin de grilles Susy.",
+              "number": 8,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "pierre-labadille",
+        "identifier": "pierre-labadille",
+        "url": "https://api.caen.camp/api/speakers/pierre-labadille",
+        "name": "Pierre Labadille",
+        "disambiguatingDescription": "Backend web developer passionate by neural networks and projects of any kinds.",
+        "description": "Développeur Back-End. Passionné par les projets, je crois aux\nméthodes agiles et au bonheur au travail.\n",
+        "descriptionHtml": "<p>Développeur Back-End. Passionné par les projets, je crois aux méthodes agiles et au bonheur au travail.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/plabadille",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/pierre-labadille-189367150/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/plabadille",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "les-reseaux-de-neurones-les-comprendre-et-en-creer-avec-tensorflow-et-keras",
+            "identifier": "les-reseaux-de-neurones-les-comprendre-et-en-creer-avec-tensorflow-et-keras",
+            "url": "https://api.caen.camp/api/events/les-reseaux-de-neurones-les-comprendre-et-en-creer-avec-tensorflow-et-keras",
+            "name": "Les réseaux de neurones: les comprendre et en créer avec TensorFlow et Keras",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Présentation du monde du deep learning, de son vocabulaire, fonctionnement et de ces concepts pour amener la présentation des différentes étapes de création d'un réseau de neurones.",
+            "video": "https://www.youtube.com/watch?v=tlpzpyTBFQc",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "les-reseaux-de-neurones-les-comprendre-et-en-creer-avec-tensorflow-et-keras",
+              "identifier": "les-reseaux-de-neurones-les-comprendre-et-en-creer-avec-tensorflow-et-keras",
+              "url": "https://api.caen.camp/api/events/les-reseaux-de-neurones-les-comprendre-et-en-creer-avec-tensorflow-et-keras",
+              "name": "Les réseaux de neurones: les comprendre et en créer avec TensorFlow et Keras",
+              "startDate": "2017-11-28T18:30:00+01:00",
+              "disambiguatingDescription": "Présentation du monde du deep learning, de son vocabulaire, fonctionnement et de ces concepts pour amener la présentation des différentes étapes de création d'un réseau de neurones.",
+              "number": 34,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "quentin-desrame",
+        "identifier": "quentin-desrame",
+        "url": "https://api.caen.camp/api/speakers/quentin-desrame",
+        "name": "Quentin Desramé",
+        "disambiguatingDescription": "Développeur polyglotte et testeur de nouvelles technologies à mes heures perdues.",
+        "description": "Développeur polyglotte et testeur de nouvelles technologies à mes\nheures perdues.\n",
+        "descriptionHtml": "<p>Développeur polyglotte et testeur de nouvelles technologies à mes heures perdues.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://www.linkedin.com/in/quentin-desrame/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/qdesrame",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "nestjs",
+            "identifier": "nestjs",
+            "url": "https://api.caen.camp/api/events/illustrations-responsives",
+            "name": "NestJS",
+            "format": {
+              "label": "Lightning",
+              "durationInMinutes": 5
+            },
+            "abstract": "Présentation de NestJS, un framework qui exploite la puissance de TypeScript. Il propose notamment un système de module et d'injection de dépendances permettant d'architecturer son code de manière simple mais efficace.",
+            "video": "https://www.youtube.com/watch?v=u30Duc1VlKY",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "illustrations-responsives",
+              "identifier": "illustrations-responsives",
+              "url": "https://api.caen.camp/api/events/illustrations-responsives",
+              "name": "Illustrations responsives",
+              "startDate": "2018-11-27T18:30:00+01:00",
+              "disambiguatingDescription": "Présentation et description de 'picture', 'srcset' et 'sizes' ainsi que de la propriété css 'object-fit', afin de sensibiliser à l'utilisation des images aujourd'hui et l'enjeu de performance qui y est lié.",
+              "number": 41,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "romain-tartiere",
+        "identifier": "romain-tartiere",
+        "url": "https://api.caen.camp/api/speakers/romain-tartiere",
+        "name": "Romain Tartière",
+        "disambiguatingDescription": "Hacker, FLOSS Mercenary, FreeBSD developer (romain@), BOFH, love stuff from the 70's (e.g. UNIX, Japanese hard-rock) and Ruby.",
+        "description": "Hi! I'm Romain Tartière and you're currently browsing the sub-part of\nthe Internet where I introduce myself and host a few projects.\n\nBy day, I was a systems administrator for HealthGrid, an association\nwhich aimed to bring grid technologies to health and\nhealthcare-related structures. Since the liquidation of the\nassociation, I am in the process of a Validation des Acquis de\nl'Experience.\n\nBy night, I am a FreeBSD enthusiast involved in Free/Libre Software\nactivities and interested in various computer-science related\ntechnologies (and sometimes sleep a bit).\n",
+        "descriptionHtml": "<p>Hi! I'm Romain Tartière and you're currently browsing the sub-part of the Internet where I introduce myself and host a few projects.</p>\n<p>By day, I was a systems administrator for HealthGrid, an association which aimed to bring grid technologies to health and healthcare-related structures. Since the liquidation of the association, I am in the process of a Validation des Acquis de l'Experience.</p>\n<p>By night, I am a FreeBSD enthusiast involved in Free/Libre Software activities and interested in various computer-science related technologies (and sometimes sleep a bit).</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/smortex",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/rtartiere/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://romain.blogreen.org/",
+            "type": "perso"
+          },
+          {
+            "url": "https://mamot.fr/@smortex",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "infrastructures-a-cles-publiques",
+            "identifier": "infrastructures-a-cles-publiques",
+            "url": "https://api.caen.camp/api/events/infrastructures-a-cles-publiques",
+            "name": "Infrastructures à Clés Publiques",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Nous irons au delà d'une simple description des moyens techniques permettant d'établir une garantie de confiance dans la validité d'une identité numérique.",
+            "video": "https://www.youtube.com/watch?v=9zNAUFtw7Ac",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "infrastructures-a-cles-publiques",
+              "identifier": "infrastructures-a-cles-publiques",
+              "url": "https://api.caen.camp/api/events/infrastructures-a-cles-publiques",
+              "name": "Infrastructures à Clés Publiques",
+              "startDate": "2017-10-31T18:30:00+01:00",
+              "disambiguatingDescription": "Nous irons au delà d'une simple description des moyens techniques permettant d'établir une garantie de confiance dans la validité d'une identité numérique.",
+              "number": 33,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "sylvain-zyssman",
+        "identifier": "sylvain-zyssman",
+        "url": "https://api.caen.camp/api/speakers/sylvain-zyssman",
+        "name": "Sylvain Zyssman",
+        "disambiguatingDescription": "Passionate FullStack developer. Co-founder of @CaenJS @Calvacoders @LaCodingSchool. Paris Web speaker.",
+        "description": "Développeur Web et applicatif freelance passionné, et pâtissier à\nmes heures, je suis passé par plusieurs boîtes avant de me mettre à\nmon compte. Très attaché à la qualité Web et au partage des\nconnaissances en général, je participe et organise plusieurs\névénements sur notre chère Côte Normande.\n",
+        "descriptionHtml": "<p>Développeur Web et applicatif freelance passionné, et pâtissier à mes heures, je suis passé par plusieurs boîtes avant de me mettre à mon compte. Très attaché à la qualité Web et au partage des connaissances en général, je participe et organise plusieurs événements sur notre chère Côte Normande.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/sylzys",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/sylvainzyssman/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://about.me/sylzys",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/sylzys",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "la-performance-web",
+            "identifier": "la-performance-web",
+            "url": "https://api.caen.camp/api/events/la-performance-web",
+            "name": "La performance Web",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Le Web est en pleine évolution. Malgré l'amélioration constante des connexions, tous les utilisateurs ne sont pas logés à la même enseigne.",
+            "video": "https://vimeo.com/99815158",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "la-performance-web",
+              "identifier": "la-performance-web",
+              "url": "https://api.caen.camp/api/events/la-performance-web",
+              "name": "La performance Web",
+              "startDate": "2014-06-26T00:00:00+02:00",
+              "disambiguatingDescription": "Le Web est en pleine évolution. Malgré l'amélioration constante des connexions, tous les utilisateurs ne sont pas logés à la même enseigne.",
+              "number": 22,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "web-components-et-apero-forum-sur-le-theme-du-teletravail",
+            "identifier": "web-components-et-apero-forum-sur-le-theme-du-teletravail",
+            "url": "https://api.caen.camp/api/events/web-components-et-apero-forum-sur-le-theme-du-teletravail",
+            "name": "Web Components et Apéro-forum sur le thème du télétravail",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Changement de formule pour cette vingtième édition : nous organisons un apéro-forum autour du thème du télétravail. Avec en première partie une présentation des Web Components",
+            "video": "https://vimeo.com/96564573",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "web-components-et-apero-forum-sur-le-theme-du-teletravail",
+              "identifier": "web-components-et-apero-forum-sur-le-theme-du-teletravail",
+              "url": "https://api.caen.camp/api/events/web-components-et-apero-forum-sur-le-theme-du-teletravail",
+              "name": "Web Components et Apéro-forum sur le thème du télétravail",
+              "startDate": "2014-04-21T00:00:00+02:00",
+              "disambiguatingDescription": "Changement de formule pour cette vingtième édition : nous organisons un apéro-forum autour du thème du télétravail. Avec en première partie une présentation des Web Components",
+              "number": 20,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "le-certificat-x509-et-symfony-2",
+            "identifier": "le-certificat-x509-et-symfony-2",
+            "url": "https://api.caen.camp/api/events/le-certificat-x509-et-symfony-2",
+            "name": "Le certificat x509 et Symfony 2",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Double intervention pour cette édition 17: le certificat X509, puis découverte de Symfony 2.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "le-certificat-x509-et-symfony-2",
+              "identifier": "le-certificat-x509-et-symfony-2",
+              "url": "https://api.caen.camp/api/events/le-certificat-x509-et-symfony-2",
+              "name": "Le certificat x509 et Symfony 2",
+              "startDate": "2014-01-30T00:00:00+01:00",
+              "disambiguatingDescription": "Double intervention pour cette édition 17: le certificat X509, puis découverte de Symfony 2.",
+              "number": 17,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "backbonejs",
+            "identifier": "backbonejs",
+            "url": "https://api.caen.camp/api/events/backbone-js",
+            "name": "Backbone.js",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Apportez la structure MVC à vos applications single page !",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "backbone-js",
+              "identifier": "backbone-js",
+              "url": "https://api.caen.camp/api/events/backbone-js",
+              "name": "Backbone.js",
+              "startDate": "2013-05-17T00:00:00+02:00",
+              "disambiguatingDescription": "Apportez la structure MVC à vos applications single page !",
+              "number": 12,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "git-comprendre-les-submodules",
+            "identifier": "git-comprendre-les-submodules",
+            "url": "https://api.caen.camp/api/events/git-comprendre-les-submodules",
+            "name": "Git, comprendre les submodules",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Démonstration de l'utilité des submodules pour gérer les dépendances d'un projet  et de la facilité d'utilisation : avantages, inconvénients et examples d'utilisation. Le tout en live coding !",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "git-comprendre-les-submodules",
+              "identifier": "git-comprendre-les-submodules",
+              "url": "https://api.caen.camp/api/events/git-comprendre-les-submodules",
+              "name": "Git, comprendre les submodules",
+              "startDate": "2013-02-15T00:00:00+01:00",
+              "disambiguatingDescription": "Démonstration de l'utilité des submodules pour gérer les dépendances d'un projet  et de la facilité d'utilisation : avantages, inconvénients et examples d'utilisation. Le tout en live coding !",
+              "number": 9,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "thomas-maziere",
+        "identifier": "thomas-maziere",
+        "url": "https://api.caen.camp/api/speakers/thomas-maziere",
+        "name": "Thomas Maziere",
+        "disambiguatingDescription": "Lead Developer et consultant chez SCOP INCAYA",
+        "description": "Partage du temps de travail, lignes de code et jolies choses. Petit artisan @IncayaScop et ami des @CaenCamp.",
+        "descriptionHtml": "<p>Partage du temps de travail, lignes de code et jolies choses. Petit artisan @IncayaScop et ami des @CaenCamp.</p>\n",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/tmaziere",
+            "type": "github"
+          },
+          {
+            "url": "https://fr.linkedin.com/in/thomasmaziere",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://www.incaya.fr/",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/thomasmaziere",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "travailler-dans-une-cooperative-du-numerique-quest-ce-que-ca-change",
+            "identifier": "travailler-dans-une-cooperative-du-numerique-quest-ce-que-ca-change",
+            "url": "https://api.caen.camp/api/events/travailler-dans-une-cooperative-du-numerique-quest-ce-que-ca-change",
+            "name": "Travailler dans une coopérative du numérique : qu’est-ce que ça change ?",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Après une présentation de ce qu’est une société fondée sur le principe de la coopération, une coopérative, nous verrons en quoi travailler dans ce type de structure peut être enrichissant et épanouissant dans un secteur économique dominé par les ESN et les startups.",
+            "video": "https://youtu.be/l6ejQBPs_74",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "travailler-dans-une-cooperative-du-numerique-quest-ce-que-ca-change",
+              "identifier": "travailler-dans-une-cooperative-du-numerique-quest-ce-que-ca-change",
+              "url": "https://api.caen.camp/api/events/travailler-dans-une-cooperative-du-numerique-quest-ce-que-ca-change",
+              "name": "Travailler dans une coopérative du numérique : qu’est-ce que ça change ?",
+              "startDate": "2022-06-30T18:30:00+02:00",
+              "disambiguatingDescription": "Après une présentation de ce qu’est une société fondée sur le principe de la coopération, une coopérative, nous verrons en quoi travailler dans ce type de structure peut être enrichissant et épanouissant dans un secteur économique dominé par les ESN et les startups.",
+              "number": 58,
+              "category": "CaenCamp"
+            }
+          },
+          {
+            "@type": "CreativeWork",
+            "@id": "on-fait-quoi-en-2022-pour-lannee-du-mieux",
+            "identifier": "on-fait-quoi-en-2022-pour-lannee-du-mieux",
+            "url": "https://api.caen.camp/api/events/on-fait-quoi-en-2022-pour-lannee-du-mieux",
+            "name": "On fait quoi en 2022 pour l’année du mieux ?",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Pour notre dernière rencontre de 2021, nous vous proposons de nous retrouver pour préparer l’année 2022.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "on-fait-quoi-en-2022-pour-lannee-du-mieux",
+              "identifier": "on-fait-quoi-en-2022-pour-lannee-du-mieux",
+              "url": "https://api.caen.camp/api/events/on-fait-quoi-en-2022-pour-lannee-du-mieux",
+              "name": "On fait quoi en 2022 pour l’année du mieux ?",
+              "startDate": "2021-11-25T18:30:00+01:00",
+              "disambiguatingDescription": "Pour notre dernière rencontre de 2021, nous vous proposons de nous retrouver pour préparer l’année 2022.",
+              "number": 55,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "thomas-moinel",
+        "identifier": "thomas-moinel",
+        "url": "https://api.caen.camp/api/speakers/thomas-moinel",
+        "name": "Thomas Moinel",
+        "disambiguatingDescription": "CTO @aposio_fr, Dev @yourITcity Bugs are my own..",
+        "description": "Je m'intéresse à l' I.A., Machine learning, Robotique, Cloud,\nIntelligence ambiante, Optimisation.\n\nMon expérience à Inria en tant qu'ingénieurs R&D m'a permis de\nfaire le pont entre recherche académique et industrie, où rigueur,\ncréativité et compréhension en profondeur du sujet sont requises.\n",
+        "descriptionHtml": "<p>Je m'intéresse à l' I.A., Machine learning, Robotique, Cloud, Intelligence ambiante, Optimisation.</p>\n<p>Mon expérience à Inria en tant qu'ingénieurs R&amp;D m'a permis de faire le pont entre recherche académique et industrie, où rigueur, créativité et compréhension en profondeur du sujet sont requises.</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://www.linkedin.com/in/thomasmoinel/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/tomututu",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "retour-de-xp-sur-lhebergement-des-db-et-applications-sur-le-paas-de-clever-cloud",
+            "identifier": "retour-de-xp-sur-lhebergement-des-db-et-applications-sur-le-paas-de-clever-cloud",
+            "url": "https://api.caen.camp/api/events/edition-1",
+            "name": "Retour de XP sur l'hébergement des DB et applications sur le PaaS de Clever Cloud",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Présentation de HashiCorp Consul et retour d'expériences sur Clever Cloud",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "edition-1",
+              "identifier": "edition-1",
+              "url": "https://api.caen.camp/api/events/edition-1",
+              "name": "Édition 1",
+              "startDate": "2019-11-06T18:30:00+01:00",
+              "disambiguatingDescription": "Présentation de HashiCorp Consul et retour d'expériences sur Clever Cloud",
+              "number": 1,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "vincent-regnard",
+        "identifier": "vincent-regnard",
+        "url": "https://api.caen.camp/api/speakers/vincent-regnard",
+        "name": "Vincent Regnard",
+        "disambiguatingDescription": "Sysadmin et développeur web chez PRETEXX",
+        "description": "",
+        "descriptionHtml": "",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://www.linkedin.com/in/vincent-regnard-84b20b56/",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://twitter.com/vincentregnard",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "le-certificat-x509-et-symfony-2",
+            "identifier": "le-certificat-x509-et-symfony-2",
+            "url": "https://api.caen.camp/api/events/le-certificat-x509-et-symfony-2",
+            "name": "Le certificat x509 et Symfony 2",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Double intervention pour cette édition 17: le certificat X509, puis découverte de Symfony 2.",
+            "video": null,
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "le-certificat-x509-et-symfony-2",
+              "identifier": "le-certificat-x509-et-symfony-2",
+              "url": "https://api.caen.camp/api/events/le-certificat-x509-et-symfony-2",
+              "name": "Le certificat x509 et Symfony 2",
+              "startDate": "2014-01-30T00:00:00+01:00",
+              "disambiguatingDescription": "Double intervention pour cette édition 17: le certificat X509, puis découverte de Symfony 2.",
+              "number": 17,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "@id": "yvain-liechti",
+        "identifier": "yvain-liechti",
+        "url": "https://api.caen.camp/api/speakers/yvain-liechti",
+        "name": "Yvain Liechti",
+        "disambiguatingDescription": "Make a better Web everyday @CleverAge #js #html #css #catLife",
+        "description": "Make a better Web everyday @CleverAge #js #html #css #catLife\n",
+        "descriptionHtml": "<p>Make a better Web everyday @CleverAge #js #html #css #catLife</p>",
+        "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+        "websites": [
+          {
+            "url": "https://github.com/ryuran",
+            "type": "github"
+          },
+          {
+            "url": "https://www.linkedin.com/in/yliechti",
+            "type": "linkedin"
+          },
+          {
+            "url": "https://ryuran.info/",
+            "type": "perso"
+          },
+          {
+            "url": "https://twitter.com/ryuran78",
+            "type": "twitter"
+          }
+        ],
+        "talks": [
+          {
+            "@type": "CreativeWork",
+            "@id": "illustrations-responsives",
+            "identifier": "illustrations-responsives",
+            "url": "https://api.caen.camp/api/events/illustrations-responsives",
+            "name": "Illustrations responsives",
+            "format": {
+              "label": "Regular",
+              "durationInMinutes": 45
+            },
+            "abstract": "Présentation et description de 'picture', 'srcset' et 'sizes' ainsi que de la propriété css 'object-fit', afin de sensibiliser à l'utilisation des images aujourd'hui et l'enjeu de performance qui y est lié.",
+            "video": "https://www.youtube.com/watch?v=1f46hA_Cc2E",
+            "image": "https://caen.camp/static/logoFondBlanc-278da657a83902f7d21083ade8e9ce7a.png",
+            "recordedAt": {
+              "@type": "Event",
+              "@id": "illustrations-responsives",
+              "identifier": "illustrations-responsives",
+              "url": "https://api.caen.camp/api/events/illustrations-responsives",
+              "name": "Illustrations responsives",
+              "startDate": "2018-11-27T18:30:00+01:00",
+              "disambiguatingDescription": "Présentation et description de 'picture', 'srcset' et 'sizes' ainsi que de la propriété css 'object-fit', afin de sensibiliser à l'utilisation des images aujourd'hui et l'enjeu de performance qui y est lié.",
+              "number": 41,
+              "category": "CaenCamp"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "__N_SSG": true
+}
