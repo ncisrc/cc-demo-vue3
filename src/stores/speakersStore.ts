@@ -22,7 +22,9 @@ export const useSpeakersStore = defineStore('speakersStore', {
       })
     },
 
-    countFiltered: (getters) => getters.filteredSpeakers.length,
+    countFiltered(): number | undefined {
+      return this.filteredSpeakers.length
+    }
   },
 
   actions: {
