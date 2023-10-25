@@ -9,13 +9,21 @@ const text = ref('Hello World')
 </script>
 
 <template>
-  <p>
-    Very Simple example :
-    <button @click="counter++">Counter = {{ counter }}</button>
-  </p>
+  <h1>Home Component</h1>
+
+  <hr />
 
   <p>
-    Another very simple example : text is '{{ text }}' <br />
+    Very simple reactivity example:<br />
+    <button @click="counter++">Counter = {{ counter }}</button>
+    <button class="mx-4" @click="counter=0">RAZ</button>
+  </p>
+
+  <hr />
+
+  <p>
+    Another very simple example:<br />
     <input v-model="text" />
   </p>
+  <div class="bg-emerald-600 p-2 my-4 rounded">Your text : <b>{{ text }}</b></div>
 </template>

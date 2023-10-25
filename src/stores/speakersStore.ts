@@ -1,35 +1,36 @@
 import type { Speaker, SpeakerQuery } from '../types';
 import { defineStore } from 'pinia'
+import { normalizer } from '@/libs/normalizer'
 
 export const useSpeakersStore = defineStore('speakersStore', {
   state: () => ({
     speakers: [] as Speaker[],
     filter: '',
+    loaded: false
   }),
 
   getters: {
     count: (state) => state.speakers.length,
 
-    countFiltered: (getters) => getters.filteredSpeakers.length,
-
-    filteredSpeakers: (state) => {
+    filteredSpeakers: (state) : Speaker[] => {
       if (state.filter === '')
         return state.speakers;
 
-      const normalizedFilter = state.filter.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-
+      const normalizedFilter = normalizer(state.filter)
       return state.speakers.filter(speaker => {
-        const normalizedName = speaker.name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-        return normalizedName.includes(normalizedFilter)
+        return normalizer(speaker.name).includes(normalizedFilter)
       })
-    }
+    },
+
+    countFiltered: (getters) => getters.filteredSpeakers.length,
   },
 
   actions: {
     async refresh() {
       const data = await fetch('/speakers.json')
-      const json = await data.json() as SpeakerQuery;
+      const json = await data.json() as SpeakerQuery
       this.speakers = json.pageProps.speakers
+      this.loaded = true
     },
   }
 })

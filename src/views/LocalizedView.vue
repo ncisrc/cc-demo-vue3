@@ -8,23 +8,34 @@ const counter = ref(0)
 </script>
 <template>
   <!-- Choix de la langue-->
-  <select v-model="locale">
-    <option value="fr">{{  $t('french') }}</option>
-    <option value="en">{{  $t('english') }}</option>
-  </select>
+  <div class="text-right mb-4">
+    {{ $t('language') }} :
+    <select v-model="locale">
+      <option value="fr">{{  $t('french') }}</option>
+      <option value="en">{{  $t('english') }}</option>
+    </select>
+  </div>
+
 
   <h1>{{ $t('helloWorld') }}</h1>
+
+
   <span>{{ $t('pageInformation') }}</span>
 
+  <hr />
   <p>
     Your name : <input type="text" v-model="name" /><br />
-    {{ $t('helloName', { name }) }}
   </p>
+  <div class="bg-emerald-600 p-2 my-4 rounded">
+    {{ $t('helloName', { name }) }}
+  </div>
 
+  <hr />
   <p>
     <button @click="counter++">
       {{ $t('nbClicks', counter) }}
     </button>
+    <button class="mx-4" @click="counter=0">RAZ</button>
   </p>
 
 </template>
