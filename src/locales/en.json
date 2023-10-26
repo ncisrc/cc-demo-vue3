@@ -1,8 +1,11 @@
 {
-  "language": "Langue",
+  "language": "Language",
   "french": "French",
-  "English": "English",
+  "english": "English",
+  "ukrainian": "Ukrainien",
+  "your_name": "Your name",
   "helloWorld": "Hello world !",
   "helloName": "Hello {name} !",
-  "nbClicks": "You haven't clicked yet. | You clicked one time. | You clicked {n} times."
+  "nbClicks": "You haven't clicked yet. | You clicked one time. | You clicked {n} times.",
+  "pageInformation": "English page"
 }

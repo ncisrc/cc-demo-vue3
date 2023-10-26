@@ -13,6 +13,7 @@ const counter = ref(0)
     <select v-model="locale">
       <option value="fr">{{  $t('french') }}</option>
       <option value="en">{{  $t('english') }}</option>
+      <option value="ua">{{  $t('ukrainian') }}</option>
     </select>
   </div>
 
@@ -24,7 +25,7 @@ const counter = ref(0)
 
   <hr />
   <p>
-    Your name : <input type="text" v-model="name" /><br />
+    {{ $t('your_name') }} : <input type="text" v-model="name" /><br />
   </p>
   <div class="bg-emerald-600 p-2 my-4 rounded">
     {{ $t('helloName', { name }) }}

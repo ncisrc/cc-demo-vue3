@@ -1,8 +1,8 @@
 <script setup lang="ts">
-//import SpeakerCardDecoration from '@/components/SpeakerCardDecoration.vue';
+import SpeakerCardDecoration from '@/components/SpeakerCardDecoration.vue';
 import SpeakerCard from '@/components/SpeakerCard.vue';
-import { useSpeakersStore } from '@/stores/speakersStore_CompositionApi';
 
+import { useSpeakersStore } from '@/stores/speakersStore_CompositionApi';
 const speakersStore = useSpeakersStore();
 </script>
 
@@ -25,14 +25,14 @@ const speakersStore = useSpeakersStore();
         )
       </div>
       <div>
-        ...
+        <input type="text" v-model="speakersStore.filter" placeholder="Filter by name" />
       </div>
     </div>
 
     <div class="speakers">
-      <SpeakerCard v-for="speaker in speakersStore.speakers"
-        :key="speaker.name"
-        :speaker="speaker" />
+      <SpeakerCardDecoration v-for="speaker in speakersStore.filteredSpeakers" :key="speaker.name">
+        <SpeakerCard :speaker="speaker" />
+      </SpeakerCardDecoration>
     </div>
   </div>
 
