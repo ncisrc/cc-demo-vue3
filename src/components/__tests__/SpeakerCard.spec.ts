@@ -14,6 +14,6 @@ describe('SpeakerCard', () => {
     }
 
     const wrapper = mount(SpeakerCard, { props: { speaker: speakerMock } })
-    expect(wrapper.text()).toContain('toto')
+    expect(wrapper.text()).toContain('toto') // set to SpeakerMock.name to make it pass
   })
 })
